@@ -20223,3 +20223,5299 @@
   }
 }
 [2022-03-26T15:27:35.220] [DEBUG] debug - =============================
+[2022-07-10T13:55:06.059] [DEBUG] debug - =============================
+[2022-07-10T13:55:06.059] [DEBUG] debug - Method : GET
+[2022-07-10T13:55:06.059] [DEBUG] debug - URL : /login
+[2022-07-10T13:55:06.060] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T04:55:06.055Z",
+    "httpOnly": true,
+    "path": "/"
+  }
+}
+[2022-07-10T13:55:06.060] [DEBUG] debug - cookie : {
+  "connect.sid": "s:jCC-4ufrxt_S807ZAC6EAfoshq-YfUGp./USMct65BTTwNk1Xfx7Mtt8/rMbdtnRI4xAAMftArZo"
+}
+[2022-07-10T13:55:06.060] [DEBUG] debug - =============================
+[2022-07-10T13:55:41.019] [DEBUG] debug - =============================
+[2022-07-10T13:55:41.019] [DEBUG] debug - Method : GET
+[2022-07-10T13:55:41.019] [DEBUG] debug - URL : /login
+[2022-07-10T13:55:41.019] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T04:55:06.162Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T13:55:41.019] [DEBUG] debug - cookie : {
+  "connect.sid": "s:yAKCWYoDZCw7sihSMFokCtm02s83gsTz.myVu1FzH3MjhrA2qpBw8634N5ta3lYWWjSQBLCR9fWU"
+}
+[2022-07-10T13:55:41.019] [DEBUG] debug - =============================
+[2022-07-10T13:56:11.027] [DEBUG] debug - =============================
+[2022-07-10T13:56:11.027] [DEBUG] debug - Method : GET
+[2022-07-10T13:56:11.027] [DEBUG] debug - URL : /login
+[2022-07-10T13:56:11.027] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T04:56:11.023Z",
+    "httpOnly": true,
+    "path": "/"
+  }
+}
+[2022-07-10T13:56:11.027] [DEBUG] debug - cookie : {
+  "connect.sid": "s:yAKCWYoDZCw7sihSMFokCtm02s83gsTz.myVu1FzH3MjhrA2qpBw8634N5ta3lYWWjSQBLCR9fWU"
+}
+[2022-07-10T13:56:11.027] [DEBUG] debug - =============================
+[2022-07-10T13:57:57.084] [DEBUG] debug - =============================
+[2022-07-10T13:57:57.084] [DEBUG] debug - Method : GET
+[2022-07-10T13:57:57.084] [DEBUG] debug - URL : /login
+[2022-07-10T13:57:57.084] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T04:56:11.072Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T13:57:57.084] [DEBUG] debug - cookie : {
+  "connect.sid": "s:WdQ6ZyBG9lLh0TuPqtEd23J893e2MrCE.OGplgk/dDr2zV4OntAyOttkFqObPH7hq22xz1A8u4VE"
+}
+[2022-07-10T13:57:57.084] [DEBUG] debug - =============================
+[2022-07-10T13:59:48.821] [DEBUG] debug - =============================
+[2022-07-10T13:59:48.821] [DEBUG] debug - Method : GET
+[2022-07-10T13:59:48.821] [DEBUG] debug - URL : /login
+[2022-07-10T13:59:48.821] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T04:57:57.135Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T13:59:48.821] [DEBUG] debug - cookie : {
+  "connect.sid": "s:WdQ6ZyBG9lLh0TuPqtEd23J893e2MrCE.OGplgk/dDr2zV4OntAyOttkFqObPH7hq22xz1A8u4VE"
+}
+[2022-07-10T13:59:48.821] [DEBUG] debug - =============================
+[2022-07-10T13:59:50.750] [DEBUG] debug - =============================
+[2022-07-10T13:59:50.751] [DEBUG] debug - Method : GET
+[2022-07-10T13:59:50.751] [DEBUG] debug - URL : /login
+[2022-07-10T13:59:50.751] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T04:59:48.863Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T13:59:50.751] [DEBUG] debug - cookie : {
+  "connect.sid": "s:WdQ6ZyBG9lLh0TuPqtEd23J893e2MrCE.OGplgk/dDr2zV4OntAyOttkFqObPH7hq22xz1A8u4VE"
+}
+[2022-07-10T13:59:50.751] [DEBUG] debug - =============================
+[2022-07-10T13:59:51.485] [DEBUG] debug - =============================
+[2022-07-10T13:59:51.485] [DEBUG] debug - Method : GET
+[2022-07-10T13:59:51.485] [DEBUG] debug - URL : /login
+[2022-07-10T13:59:51.485] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T04:59:50.796Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T13:59:51.485] [DEBUG] debug - cookie : {
+  "connect.sid": "s:WdQ6ZyBG9lLh0TuPqtEd23J893e2MrCE.OGplgk/dDr2zV4OntAyOttkFqObPH7hq22xz1A8u4VE"
+}
+[2022-07-10T13:59:51.485] [DEBUG] debug - =============================
+[2022-07-10T14:02:16.803] [DEBUG] debug - =============================
+[2022-07-10T14:02:16.803] [DEBUG] debug - Method : GET
+[2022-07-10T14:02:16.803] [DEBUG] debug - URL : /login
+[2022-07-10T14:02:16.803] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:02:16.802Z",
+    "httpOnly": true,
+    "path": "/"
+  }
+}
+[2022-07-10T14:02:16.803] [DEBUG] debug - cookie : {}
+[2022-07-10T14:02:16.803] [DEBUG] debug - =============================
+[2022-07-10T14:02:41.881] [DEBUG] debug - =============================
+[2022-07-10T14:02:41.881] [DEBUG] debug - Method : GET
+[2022-07-10T14:02:41.881] [DEBUG] debug - URL : /login
+[2022-07-10T14:02:41.881] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T04:59:51.515Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T14:02:41.881] [DEBUG] debug - cookie : {
+  "connect.sid": "s:WdQ6ZyBG9lLh0TuPqtEd23J893e2MrCE.OGplgk/dDr2zV4OntAyOttkFqObPH7hq22xz1A8u4VE"
+}
+[2022-07-10T14:02:41.881] [DEBUG] debug - =============================
+[2022-07-10T14:03:37.540] [DEBUG] debug - =============================
+[2022-07-10T14:03:37.540] [DEBUG] debug - Method : GET
+[2022-07-10T14:03:37.540] [DEBUG] debug - URL : /login
+[2022-07-10T14:03:37.540] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:02:18.210Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T14:03:37.540] [DEBUG] debug - cookie : {
+  "connect.sid": "s:EVMW3SQpPcxMz4bRmvvMWaf-DFuWzcke.nwxIY9g3HGY0bKF6DzgfZ2EIdtJ2JrkP77qLZNZewbg"
+}
+[2022-07-10T14:03:37.540] [DEBUG] debug - =============================
+[2022-07-10T14:03:40.738] [DEBUG] debug - =============================
+[2022-07-10T14:03:40.738] [DEBUG] debug - Method : GET
+[2022-07-10T14:03:40.738] [DEBUG] debug - URL : /login
+[2022-07-10T14:03:40.738] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:02:45.369Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T14:03:40.738] [DEBUG] debug - cookie : {
+  "connect.sid": "s:WdQ6ZyBG9lLh0TuPqtEd23J893e2MrCE.OGplgk/dDr2zV4OntAyOttkFqObPH7hq22xz1A8u4VE"
+}
+[2022-07-10T14:03:40.738] [DEBUG] debug - =============================
+[2022-07-10T14:04:03.544] [DEBUG] debug - =============================
+[2022-07-10T14:04:03.544] [DEBUG] debug - Method : GET
+[2022-07-10T14:04:03.544] [DEBUG] debug - URL : /login
+[2022-07-10T14:04:03.544] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:03:37.614Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T14:04:03.544] [DEBUG] debug - cookie : {
+  "connect.sid": "s:EVMW3SQpPcxMz4bRmvvMWaf-DFuWzcke.nwxIY9g3HGY0bKF6DzgfZ2EIdtJ2JrkP77qLZNZewbg"
+}
+[2022-07-10T14:04:03.544] [DEBUG] debug - =============================
+[2022-07-10T14:04:21.480] [DEBUG] debug - =============================
+[2022-07-10T14:04:21.480] [DEBUG] debug - Method : GET
+[2022-07-10T14:04:21.480] [DEBUG] debug - URL : /login
+[2022-07-10T14:04:21.480] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:03:40.865Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T14:04:21.480] [DEBUG] debug - cookie : {
+  "connect.sid": "s:WdQ6ZyBG9lLh0TuPqtEd23J893e2MrCE.OGplgk/dDr2zV4OntAyOttkFqObPH7hq22xz1A8u4VE"
+}
+[2022-07-10T14:04:21.480] [DEBUG] debug - =============================
+[2022-07-10T14:04:22.581] [DEBUG] debug - =============================
+[2022-07-10T14:04:22.581] [DEBUG] debug - Method : GET
+[2022-07-10T14:04:22.581] [DEBUG] debug - URL : /login
+[2022-07-10T14:04:22.581] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:04:21.576Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T14:04:22.581] [DEBUG] debug - cookie : {
+  "connect.sid": "s:WdQ6ZyBG9lLh0TuPqtEd23J893e2MrCE.OGplgk/dDr2zV4OntAyOttkFqObPH7hq22xz1A8u4VE"
+}
+[2022-07-10T14:04:22.582] [DEBUG] debug - =============================
+[2022-07-10T14:04:32.113] [DEBUG] debug - =============================
+[2022-07-10T14:04:32.113] [DEBUG] debug - Method : GET
+[2022-07-10T14:04:32.113] [DEBUG] debug - URL : /login
+[2022-07-10T14:04:32.113] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:04:03.615Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T14:04:32.113] [DEBUG] debug - cookie : {
+  "connect.sid": "s:EVMW3SQpPcxMz4bRmvvMWaf-DFuWzcke.nwxIY9g3HGY0bKF6DzgfZ2EIdtJ2JrkP77qLZNZewbg"
+}
+[2022-07-10T14:04:32.113] [DEBUG] debug - =============================
+[2022-07-10T14:05:11.961] [DEBUG] debug - =============================
+[2022-07-10T14:05:11.961] [DEBUG] debug - Method : GET
+[2022-07-10T14:05:11.961] [DEBUG] debug - URL : /login
+[2022-07-10T14:05:11.961] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:04:22.693Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T14:05:11.961] [DEBUG] debug - cookie : {
+  "connect.sid": "s:WdQ6ZyBG9lLh0TuPqtEd23J893e2MrCE.OGplgk/dDr2zV4OntAyOttkFqObPH7hq22xz1A8u4VE"
+}
+[2022-07-10T14:05:11.961] [DEBUG] debug - =============================
+[2022-07-10T14:05:13.981] [DEBUG] debug - =============================
+[2022-07-10T14:05:13.982] [DEBUG] debug - Method : GET
+[2022-07-10T14:05:13.982] [DEBUG] debug - URL : /login
+[2022-07-10T14:05:13.982] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:04:32.149Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T14:05:13.982] [DEBUG] debug - cookie : {
+  "connect.sid": "s:EVMW3SQpPcxMz4bRmvvMWaf-DFuWzcke.nwxIY9g3HGY0bKF6DzgfZ2EIdtJ2JrkP77qLZNZewbg"
+}
+[2022-07-10T14:05:13.982] [DEBUG] debug - =============================
+[2022-07-10T14:05:43.389] [DEBUG] debug - =============================
+[2022-07-10T14:05:43.389] [DEBUG] debug - Method : GET
+[2022-07-10T14:05:43.389] [DEBUG] debug - URL : /login
+[2022-07-10T14:05:43.389] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:05:14.034Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T14:05:43.389] [DEBUG] debug - cookie : {
+  "connect.sid": "s:EVMW3SQpPcxMz4bRmvvMWaf-DFuWzcke.nwxIY9g3HGY0bKF6DzgfZ2EIdtJ2JrkP77qLZNZewbg"
+}
+[2022-07-10T14:05:43.390] [DEBUG] debug - =============================
+[2022-07-10T14:05:46.841] [DEBUG] debug - =============================
+[2022-07-10T14:05:46.841] [DEBUG] debug - Method : GET
+[2022-07-10T14:05:46.841] [DEBUG] debug - URL : /login
+[2022-07-10T14:05:46.841] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:05:12.061Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T14:05:46.841] [DEBUG] debug - cookie : {
+  "connect.sid": "s:WdQ6ZyBG9lLh0TuPqtEd23J893e2MrCE.OGplgk/dDr2zV4OntAyOttkFqObPH7hq22xz1A8u4VE"
+}
+[2022-07-10T14:05:46.841] [DEBUG] debug - =============================
+[2022-07-10T14:09:11.968] [DEBUG] debug - =============================
+[2022-07-10T14:09:11.968] [DEBUG] debug - Method : GET
+[2022-07-10T14:09:11.968] [DEBUG] debug - URL : /login
+[2022-07-10T14:09:11.968] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:05:46.946Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T14:09:11.968] [DEBUG] debug - cookie : {
+  "connect.sid": "s:WdQ6ZyBG9lLh0TuPqtEd23J893e2MrCE.OGplgk/dDr2zV4OntAyOttkFqObPH7hq22xz1A8u4VE"
+}
+[2022-07-10T14:09:11.968] [DEBUG] debug - =============================
+[2022-07-10T14:09:13.872] [DEBUG] debug - =============================
+[2022-07-10T14:09:13.872] [DEBUG] debug - Method : GET
+[2022-07-10T14:09:13.872] [DEBUG] debug - URL : /login
+[2022-07-10T14:09:13.872] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:05:43.475Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T14:09:13.873] [DEBUG] debug - cookie : {
+  "connect.sid": "s:EVMW3SQpPcxMz4bRmvvMWaf-DFuWzcke.nwxIY9g3HGY0bKF6DzgfZ2EIdtJ2JrkP77qLZNZewbg"
+}
+[2022-07-10T14:09:13.873] [DEBUG] debug - =============================
+[2022-07-10T14:11:14.898] [DEBUG] debug - =============================
+[2022-07-10T14:11:14.898] [DEBUG] debug - Method : GET
+[2022-07-10T14:11:14.898] [DEBUG] debug - URL : /login
+[2022-07-10T14:11:14.898] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:09:12.063Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T14:11:14.898] [DEBUG] debug - cookie : {
+  "connect.sid": "s:WdQ6ZyBG9lLh0TuPqtEd23J893e2MrCE.OGplgk/dDr2zV4OntAyOttkFqObPH7hq22xz1A8u4VE"
+}
+[2022-07-10T14:11:14.898] [DEBUG] debug - =============================
+[2022-07-10T14:11:15.733] [DEBUG] debug - =============================
+[2022-07-10T14:11:15.733] [DEBUG] debug - Method : GET
+[2022-07-10T14:11:15.733] [DEBUG] debug - URL : /login
+[2022-07-10T14:11:15.733] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:11:14.947Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T14:11:15.733] [DEBUG] debug - cookie : {
+  "connect.sid": "s:WdQ6ZyBG9lLh0TuPqtEd23J893e2MrCE.OGplgk/dDr2zV4OntAyOttkFqObPH7hq22xz1A8u4VE"
+}
+[2022-07-10T14:11:15.733] [DEBUG] debug - =============================
+[2022-07-10T14:11:21.132] [DEBUG] debug - =============================
+[2022-07-10T14:11:21.132] [DEBUG] debug - Method : GET
+[2022-07-10T14:11:21.133] [DEBUG] debug - URL : /login
+[2022-07-10T14:11:21.133] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:11:15.800Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T14:11:21.133] [DEBUG] debug - cookie : {
+  "connect.sid": "s:WdQ6ZyBG9lLh0TuPqtEd23J893e2MrCE.OGplgk/dDr2zV4OntAyOttkFqObPH7hq22xz1A8u4VE"
+}
+[2022-07-10T14:11:21.133] [DEBUG] debug - =============================
+[2022-07-10T14:12:07.983] [DEBUG] debug - =============================
+[2022-07-10T14:12:07.983] [DEBUG] debug - Method : GET
+[2022-07-10T14:12:07.983] [DEBUG] debug - URL : /login
+[2022-07-10T14:12:07.983] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:11:26.348Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T14:12:07.983] [DEBUG] debug - cookie : {
+  "connect.sid": "s:WdQ6ZyBG9lLh0TuPqtEd23J893e2MrCE.OGplgk/dDr2zV4OntAyOttkFqObPH7hq22xz1A8u4VE"
+}
+[2022-07-10T14:12:07.983] [DEBUG] debug - =============================
+[2022-07-10T14:13:39.736] [DEBUG] debug - =============================
+[2022-07-10T14:13:39.736] [DEBUG] debug - Method : GET
+[2022-07-10T14:13:39.736] [DEBUG] debug - URL : /login
+[2022-07-10T14:13:39.737] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:09:13.933Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T14:13:39.737] [DEBUG] debug - cookie : {
+  "connect.sid": "s:EVMW3SQpPcxMz4bRmvvMWaf-DFuWzcke.nwxIY9g3HGY0bKF6DzgfZ2EIdtJ2JrkP77qLZNZewbg"
+}
+[2022-07-10T14:13:39.737] [DEBUG] debug - =============================
+[2022-07-10T14:13:42.448] [DEBUG] debug - =============================
+[2022-07-10T14:13:42.448] [DEBUG] debug - Method : GET
+[2022-07-10T14:13:42.448] [DEBUG] debug - URL : /login
+[2022-07-10T14:13:42.448] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:12:08.084Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T14:13:42.448] [DEBUG] debug - cookie : {
+  "connect.sid": "s:WdQ6ZyBG9lLh0TuPqtEd23J893e2MrCE.OGplgk/dDr2zV4OntAyOttkFqObPH7hq22xz1A8u4VE"
+}
+[2022-07-10T14:13:42.448] [DEBUG] debug - =============================
+[2022-07-10T14:14:25.500] [DEBUG] debug - =============================
+[2022-07-10T14:14:25.501] [DEBUG] debug - Method : GET
+[2022-07-10T14:14:25.501] [DEBUG] debug - URL : /login
+[2022-07-10T14:14:25.501] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:13:42.580Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T14:14:25.501] [DEBUG] debug - cookie : {
+  "connect.sid": "s:WdQ6ZyBG9lLh0TuPqtEd23J893e2MrCE.OGplgk/dDr2zV4OntAyOttkFqObPH7hq22xz1A8u4VE"
+}
+[2022-07-10T14:14:25.501] [DEBUG] debug - =============================
+[2022-07-10T14:15:12.130] [DEBUG] debug - =============================
+[2022-07-10T14:15:12.130] [DEBUG] debug - Method : GET
+[2022-07-10T14:15:12.130] [DEBUG] debug - URL : /login
+[2022-07-10T14:15:12.130] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:14:25.589Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T14:15:12.130] [DEBUG] debug - cookie : {
+  "connect.sid": "s:WdQ6ZyBG9lLh0TuPqtEd23J893e2MrCE.OGplgk/dDr2zV4OntAyOttkFqObPH7hq22xz1A8u4VE"
+}
+[2022-07-10T14:15:12.130] [DEBUG] debug - =============================
+[2022-07-10T14:15:21.427] [DEBUG] debug - =============================
+[2022-07-10T14:15:21.427] [DEBUG] debug - Method : GET
+[2022-07-10T14:15:21.427] [DEBUG] debug - URL : /login
+[2022-07-10T14:15:21.427] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:13:39.797Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T14:15:21.427] [DEBUG] debug - cookie : {
+  "connect.sid": "s:EVMW3SQpPcxMz4bRmvvMWaf-DFuWzcke.nwxIY9g3HGY0bKF6DzgfZ2EIdtJ2JrkP77qLZNZewbg"
+}
+[2022-07-10T14:15:21.427] [DEBUG] debug - =============================
+[2022-07-10T14:20:55.518] [DEBUG] debug - =============================
+[2022-07-10T14:20:55.518] [DEBUG] debug - Method : GET
+[2022-07-10T14:20:55.518] [DEBUG] debug - URL : /login
+[2022-07-10T14:20:55.518] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:15:21.477Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T14:20:55.518] [DEBUG] debug - cookie : {
+  "connect.sid": "s:EVMW3SQpPcxMz4bRmvvMWaf-DFuWzcke.nwxIY9g3HGY0bKF6DzgfZ2EIdtJ2JrkP77qLZNZewbg"
+}
+[2022-07-10T14:20:55.518] [DEBUG] debug - =============================
+[2022-07-10T14:21:11.999] [DEBUG] debug - =============================
+[2022-07-10T14:21:12.000] [DEBUG] debug - Method : GET
+[2022-07-10T14:21:12.000] [DEBUG] debug - URL : /login
+[2022-07-10T14:21:12.000] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:20:55.611Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T14:21:12.000] [DEBUG] debug - cookie : {
+  "connect.sid": "s:EVMW3SQpPcxMz4bRmvvMWaf-DFuWzcke.nwxIY9g3HGY0bKF6DzgfZ2EIdtJ2JrkP77qLZNZewbg"
+}
+[2022-07-10T14:21:12.000] [DEBUG] debug - =============================
+[2022-07-10T14:21:21.101] [DEBUG] debug - =============================
+[2022-07-10T14:21:21.101] [DEBUG] debug - Method : GET
+[2022-07-10T14:21:21.101] [DEBUG] debug - URL : /login
+[2022-07-10T14:21:21.101] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:21:12.080Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T14:21:21.101] [DEBUG] debug - cookie : {
+  "connect.sid": "s:EVMW3SQpPcxMz4bRmvvMWaf-DFuWzcke.nwxIY9g3HGY0bKF6DzgfZ2EIdtJ2JrkP77qLZNZewbg"
+}
+[2022-07-10T14:21:21.101] [DEBUG] debug - =============================
+[2022-07-10T14:23:47.247] [DEBUG] debug - =============================
+[2022-07-10T14:23:47.248] [DEBUG] debug - Method : GET
+[2022-07-10T14:23:47.248] [DEBUG] debug - URL : /login
+[2022-07-10T14:23:47.248] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:21:21.159Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T14:23:47.248] [DEBUG] debug - cookie : {
+  "connect.sid": "s:EVMW3SQpPcxMz4bRmvvMWaf-DFuWzcke.nwxIY9g3HGY0bKF6DzgfZ2EIdtJ2JrkP77qLZNZewbg"
+}
+[2022-07-10T14:23:47.248] [DEBUG] debug - =============================
+[2022-07-10T14:24:04.779] [DEBUG] debug - =============================
+[2022-07-10T14:24:04.779] [DEBUG] debug - Method : GET
+[2022-07-10T14:24:04.779] [DEBUG] debug - URL : /login
+[2022-07-10T14:24:04.779] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:15:12.232Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T14:24:04.779] [DEBUG] debug - cookie : {
+  "connect.sid": "s:WdQ6ZyBG9lLh0TuPqtEd23J893e2MrCE.OGplgk/dDr2zV4OntAyOttkFqObPH7hq22xz1A8u4VE"
+}
+[2022-07-10T14:24:04.779] [DEBUG] debug - =============================
+[2022-07-10T14:24:05.662] [DEBUG] debug - =============================
+[2022-07-10T14:24:05.662] [DEBUG] debug - Method : GET
+[2022-07-10T14:24:05.662] [DEBUG] debug - URL : /login
+[2022-07-10T14:24:05.662] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:24:04.845Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T14:24:05.662] [DEBUG] debug - cookie : {
+  "connect.sid": "s:WdQ6ZyBG9lLh0TuPqtEd23J893e2MrCE.OGplgk/dDr2zV4OntAyOttkFqObPH7hq22xz1A8u4VE"
+}
+[2022-07-10T14:24:05.662] [DEBUG] debug - =============================
+[2022-07-10T14:24:09.871] [DEBUG] debug - =============================
+[2022-07-10T14:24:09.872] [DEBUG] debug - Method : GET
+[2022-07-10T14:24:09.872] [DEBUG] debug - URL : /login
+[2022-07-10T14:24:09.872] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:24:05.709Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T14:24:09.872] [DEBUG] debug - cookie : {
+  "connect.sid": "s:WdQ6ZyBG9lLh0TuPqtEd23J893e2MrCE.OGplgk/dDr2zV4OntAyOttkFqObPH7hq22xz1A8u4VE"
+}
+[2022-07-10T14:24:09.872] [DEBUG] debug - =============================
+[2022-07-10T14:24:10.583] [DEBUG] debug - =============================
+[2022-07-10T14:24:10.583] [DEBUG] debug - Method : GET
+[2022-07-10T14:24:10.583] [DEBUG] debug - URL : /login
+[2022-07-10T14:24:10.583] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:24:09.924Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T14:24:10.583] [DEBUG] debug - cookie : {
+  "connect.sid": "s:WdQ6ZyBG9lLh0TuPqtEd23J893e2MrCE.OGplgk/dDr2zV4OntAyOttkFqObPH7hq22xz1A8u4VE"
+}
+[2022-07-10T14:24:10.583] [DEBUG] debug - =============================
+[2022-07-10T14:24:12.146] [DEBUG] debug - =============================
+[2022-07-10T14:24:12.146] [DEBUG] debug - Method : GET
+[2022-07-10T14:24:12.146] [DEBUG] debug - URL : /login
+[2022-07-10T14:24:12.147] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:23:47.314Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T14:24:12.147] [DEBUG] debug - cookie : {
+  "connect.sid": "s:EVMW3SQpPcxMz4bRmvvMWaf-DFuWzcke.nwxIY9g3HGY0bKF6DzgfZ2EIdtJ2JrkP77qLZNZewbg"
+}
+[2022-07-10T14:24:12.147] [DEBUG] debug - =============================
+[2022-07-10T14:24:18.431] [DEBUG] debug - =============================
+[2022-07-10T14:24:18.431] [DEBUG] debug - Method : GET
+[2022-07-10T14:24:18.431] [DEBUG] debug - URL : /login
+[2022-07-10T14:24:18.431] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:24:10.636Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T14:24:18.431] [DEBUG] debug - cookie : {
+  "connect.sid": "s:WdQ6ZyBG9lLh0TuPqtEd23J893e2MrCE.OGplgk/dDr2zV4OntAyOttkFqObPH7hq22xz1A8u4VE"
+}
+[2022-07-10T14:24:18.431] [DEBUG] debug - =============================
+[2022-07-10T14:31:13.094] [DEBUG] debug - =============================
+[2022-07-10T14:31:13.094] [DEBUG] debug - Method : GET
+[2022-07-10T14:31:13.094] [DEBUG] debug - URL : /login
+[2022-07-10T14:31:13.094] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:31:13.090Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {
+    "error": [
+      "ID or Password is incorrect"
+    ]
+  }
+}
+[2022-07-10T14:31:13.094] [DEBUG] debug - cookie : {
+  "connect.sid": "s:WdQ6ZyBG9lLh0TuPqtEd23J893e2MrCE.OGplgk/dDr2zV4OntAyOttkFqObPH7hq22xz1A8u4VE"
+}
+[2022-07-10T14:31:13.094] [DEBUG] debug - =============================
+[2022-07-10T14:41:06.931] [DEBUG] debug - =============================
+[2022-07-10T14:41:06.931] [DEBUG] debug - Method : GET
+[2022-07-10T14:41:06.931] [DEBUG] debug - URL : /
+[2022-07-10T14:41:06.932] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:41:06.924Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T14:41:06.932] [DEBUG] debug - =============================
+[2022-07-10T14:43:59.554] [DEBUG] debug - =============================
+[2022-07-10T14:43:59.554] [DEBUG] debug - Method : GET
+[2022-07-10T14:43:59.554] [DEBUG] debug - URL : /login
+[2022-07-10T14:43:59.554] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:24:12.217Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T14:43:59.554] [DEBUG] debug - cookie : {
+  "connect.sid": "s:EVMW3SQpPcxMz4bRmvvMWaf-DFuWzcke.nwxIY9g3HGY0bKF6DzgfZ2EIdtJ2JrkP77qLZNZewbg"
+}
+[2022-07-10T14:43:59.554] [DEBUG] debug - =============================
+[2022-07-10T14:44:30.077] [DEBUG] debug - =============================
+[2022-07-10T14:44:30.077] [DEBUG] debug - Method : GET
+[2022-07-10T14:44:30.077] [DEBUG] debug - URL : /
+[2022-07-10T14:44:30.077] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:44:29.983Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T14:44:30.077] [DEBUG] debug - =============================
+[2022-07-10T14:49:10.785] [DEBUG] debug - =============================
+[2022-07-10T14:49:10.785] [DEBUG] debug - Method : GET
+[2022-07-10T14:49:10.785] [DEBUG] debug - URL : /games_history
+[2022-07-10T14:49:10.785] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:41:07.127Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T14:49:10.785] [DEBUG] debug - =============================
+[2022-07-10T14:49:13.940] [DEBUG] debug - =============================
+[2022-07-10T14:49:13.940] [DEBUG] debug - Method : GET
+[2022-07-10T14:49:13.940] [DEBUG] debug - URL : /
+[2022-07-10T14:49:13.940] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:49:10.913Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T14:49:13.940] [DEBUG] debug - =============================
+[2022-07-10T14:52:45.469] [DEBUG] debug - =============================
+[2022-07-10T14:52:45.469] [DEBUG] debug - Method : GET
+[2022-07-10T14:52:45.469] [DEBUG] debug - URL : /login
+[2022-07-10T14:52:45.469] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:52:45.458Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {}
+}
+[2022-07-10T14:52:45.469] [DEBUG] debug - cookie : {
+  "connect.sid": "s:WdQ6ZyBG9lLh0TuPqtEd23J893e2MrCE.OGplgk/dDr2zV4OntAyOttkFqObPH7hq22xz1A8u4VE"
+}
+[2022-07-10T14:52:45.469] [DEBUG] debug - =============================
+[2022-07-10T14:52:47.047] [DEBUG] debug - =============================
+[2022-07-10T14:52:47.047] [DEBUG] debug - Method : GET
+[2022-07-10T14:52:47.047] [DEBUG] debug - URL : /login
+[2022-07-10T14:52:47.047] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:52:47.001Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {}
+}
+[2022-07-10T14:52:47.047] [DEBUG] debug - cookie : {
+  "connect.sid": "s:EVMW3SQpPcxMz4bRmvvMWaf-DFuWzcke.nwxIY9g3HGY0bKF6DzgfZ2EIdtJ2JrkP77qLZNZewbg"
+}
+[2022-07-10T14:52:47.047] [DEBUG] debug - =============================
+[2022-07-10T14:53:31.390] [DEBUG] debug - =============================
+[2022-07-10T14:53:31.390] [DEBUG] debug - Method : GET
+[2022-07-10T14:53:31.390] [DEBUG] debug - URL : /login
+[2022-07-10T14:53:31.390] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:52:47.133Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {}
+}
+[2022-07-10T14:53:31.391] [DEBUG] debug - cookie : {
+  "connect.sid": "s:EVMW3SQpPcxMz4bRmvvMWaf-DFuWzcke.nwxIY9g3HGY0bKF6DzgfZ2EIdtJ2JrkP77qLZNZewbg"
+}
+[2022-07-10T14:53:31.391] [DEBUG] debug - =============================
+[2022-07-10T14:53:53.595] [DEBUG] debug - =============================
+[2022-07-10T14:53:53.596] [DEBUG] debug - Method : GET
+[2022-07-10T14:53:53.596] [DEBUG] debug - URL : /login
+[2022-07-10T14:53:53.596] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:53:31.460Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {}
+}
+[2022-07-10T14:53:53.596] [DEBUG] debug - cookie : {
+  "connect.sid": "s:EVMW3SQpPcxMz4bRmvvMWaf-DFuWzcke.nwxIY9g3HGY0bKF6DzgfZ2EIdtJ2JrkP77qLZNZewbg"
+}
+[2022-07-10T14:53:53.596] [DEBUG] debug - =============================
+[2022-07-10T14:53:56.691] [DEBUG] debug - =============================
+[2022-07-10T14:53:56.691] [DEBUG] debug - Method : GET
+[2022-07-10T14:53:56.691] [DEBUG] debug - URL : /login
+[2022-07-10T14:53:56.691] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:52:45.516Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {}
+}
+[2022-07-10T14:53:56.691] [DEBUG] debug - cookie : {
+  "connect.sid": "s:WdQ6ZyBG9lLh0TuPqtEd23J893e2MrCE.OGplgk/dDr2zV4OntAyOttkFqObPH7hq22xz1A8u4VE"
+}
+[2022-07-10T14:53:56.691] [DEBUG] debug - =============================
+[2022-07-10T14:53:57.770] [DEBUG] debug - =============================
+[2022-07-10T14:53:57.770] [DEBUG] debug - Method : GET
+[2022-07-10T14:53:57.770] [DEBUG] debug - URL : /login
+[2022-07-10T14:53:57.770] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:53:56.763Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {}
+}
+[2022-07-10T14:53:57.770] [DEBUG] debug - cookie : {
+  "connect.sid": "s:WdQ6ZyBG9lLh0TuPqtEd23J893e2MrCE.OGplgk/dDr2zV4OntAyOttkFqObPH7hq22xz1A8u4VE"
+}
+[2022-07-10T14:53:57.770] [DEBUG] debug - =============================
+[2022-07-10T14:54:18.822] [DEBUG] debug - =============================
+[2022-07-10T14:54:18.823] [DEBUG] debug - Method : GET
+[2022-07-10T14:54:18.823] [DEBUG] debug - URL : /login
+[2022-07-10T14:54:18.823] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:54:18.818Z",
+    "httpOnly": true,
+    "path": "/"
+  }
+}
+[2022-07-10T14:54:18.823] [DEBUG] debug - cookie : {
+  "connect.sid": "s:EVMW3SQpPcxMz4bRmvvMWaf-DFuWzcke.nwxIY9g3HGY0bKF6DzgfZ2EIdtJ2JrkP77qLZNZewbg"
+}
+[2022-07-10T14:54:18.823] [DEBUG] debug - =============================
+[2022-07-10T14:54:26.647] [DEBUG] debug - =============================
+[2022-07-10T14:54:26.648] [DEBUG] debug - Method : GET
+[2022-07-10T14:54:26.648] [DEBUG] debug - URL : /login
+[2022-07-10T14:54:26.648] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:54:26.646Z",
+    "httpOnly": true,
+    "path": "/"
+  }
+}
+[2022-07-10T14:54:26.648] [DEBUG] debug - cookie : {
+  "connect.sid": "s:WdQ6ZyBG9lLh0TuPqtEd23J893e2MrCE.OGplgk/dDr2zV4OntAyOttkFqObPH7hq22xz1A8u4VE"
+}
+[2022-07-10T14:54:26.648] [DEBUG] debug - =============================
+[2022-07-10T14:57:09.260] [DEBUG] debug - =============================
+[2022-07-10T14:57:09.260] [DEBUG] debug - Method : GET
+[2022-07-10T14:57:09.260] [DEBUG] debug - URL : /login
+[2022-07-10T14:57:09.261] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:54:26.684Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T14:57:09.261] [DEBUG] debug - cookie : {
+  "connect.sid": "s:TyjYHMs8jNMrg_kRFPAlp-QDx5gIng9M.DSG8wn54TbzRK9z3MNvOm1e4ekOxU/3Js+WrpnNvZZA"
+}
+[2022-07-10T14:57:09.261] [DEBUG] debug - =============================
+[2022-07-10T14:57:11.358] [DEBUG] debug - =============================
+[2022-07-10T14:57:11.358] [DEBUG] debug - Method : GET
+[2022-07-10T14:57:11.358] [DEBUG] debug - URL : /login
+[2022-07-10T14:57:11.358] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:54:18.910Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T14:57:11.359] [DEBUG] debug - cookie : {
+  "connect.sid": "s:zGfOOETaZLjFlXfuh4up7yXlWRjShpLB.73iQDlQCLt8pm0fW1J3UN9mF3naaqv1Fjy58pjT3k6U"
+}
+[2022-07-10T14:57:11.359] [DEBUG] debug - =============================
+[2022-07-10T14:58:51.027] [DEBUG] debug - =============================
+[2022-07-10T14:58:51.027] [DEBUG] debug - Method : GET
+[2022-07-10T14:58:51.027] [DEBUG] debug - URL : /login
+[2022-07-10T14:58:51.028] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:57:09.291Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T14:58:51.028] [DEBUG] debug - cookie : {
+  "connect.sid": "s:TyjYHMs8jNMrg_kRFPAlp-QDx5gIng9M.DSG8wn54TbzRK9z3MNvOm1e4ekOxU/3Js+WrpnNvZZA"
+}
+[2022-07-10T14:58:51.028] [DEBUG] debug - =============================
+[2022-07-10T14:58:53.104] [DEBUG] debug - =============================
+[2022-07-10T14:58:53.104] [DEBUG] debug - Method : GET
+[2022-07-10T14:58:53.104] [DEBUG] debug - URL : /login
+[2022-07-10T14:58:53.104] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:57:11.428Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T14:58:53.105] [DEBUG] debug - cookie : {
+  "connect.sid": "s:zGfOOETaZLjFlXfuh4up7yXlWRjShpLB.73iQDlQCLt8pm0fW1J3UN9mF3naaqv1Fjy58pjT3k6U"
+}
+[2022-07-10T14:58:53.105] [DEBUG] debug - =============================
+[2022-07-10T15:12:48.352] [DEBUG] debug - =============================
+[2022-07-10T15:12:48.352] [DEBUG] debug - Method : GET
+[2022-07-10T15:12:48.353] [DEBUG] debug - URL : /login
+[2022-07-10T15:12:48.353] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:58:53.170Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T15:12:48.353] [DEBUG] debug - cookie : {
+  "connect.sid": "s:zGfOOETaZLjFlXfuh4up7yXlWRjShpLB.73iQDlQCLt8pm0fW1J3UN9mF3naaqv1Fjy58pjT3k6U"
+}
+[2022-07-10T15:12:48.353] [DEBUG] debug - =============================
+[2022-07-10T15:22:54.320] [DEBUG] debug - =============================
+[2022-07-10T15:22:54.320] [DEBUG] debug - Method : GET
+[2022-07-10T15:22:54.320] [DEBUG] debug - URL : /login
+[2022-07-10T15:22:54.320] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T05:58:51.069Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T15:22:54.320] [DEBUG] debug - cookie : {
+  "connect.sid": "s:TyjYHMs8jNMrg_kRFPAlp-QDx5gIng9M.DSG8wn54TbzRK9z3MNvOm1e4ekOxU/3Js+WrpnNvZZA"
+}
+[2022-07-10T15:22:54.320] [DEBUG] debug - =============================
+[2022-07-10T15:23:18.409] [DEBUG] debug - =============================
+[2022-07-10T15:23:18.410] [DEBUG] debug - Method : GET
+[2022-07-10T15:23:18.410] [DEBUG] debug - URL : /login
+[2022-07-10T15:23:18.410] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T06:22:54.491Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T15:23:18.410] [DEBUG] debug - cookie : {
+  "connect.sid": "s:TyjYHMs8jNMrg_kRFPAlp-QDx5gIng9M.DSG8wn54TbzRK9z3MNvOm1e4ekOxU/3Js+WrpnNvZZA"
+}
+[2022-07-10T15:23:18.410] [DEBUG] debug - =============================
+[2022-07-10T15:23:24.523] [DEBUG] debug - =============================
+[2022-07-10T15:23:24.523] [DEBUG] debug - Method : GET
+[2022-07-10T15:23:24.523] [DEBUG] debug - URL : /login
+[2022-07-10T15:23:24.523] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T06:23:18.441Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T15:23:24.523] [DEBUG] debug - cookie : {
+  "connect.sid": "s:TyjYHMs8jNMrg_kRFPAlp-QDx5gIng9M.DSG8wn54TbzRK9z3MNvOm1e4ekOxU/3Js+WrpnNvZZA"
+}
+[2022-07-10T15:23:24.523] [DEBUG] debug - =============================
+[2022-07-10T15:23:29.907] [DEBUG] debug - =============================
+[2022-07-10T15:23:29.907] [DEBUG] debug - Method : GET
+[2022-07-10T15:23:29.907] [DEBUG] debug - URL : /login
+[2022-07-10T15:23:29.907] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T06:23:24.553Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T15:23:29.907] [DEBUG] debug - cookie : {
+  "connect.sid": "s:TyjYHMs8jNMrg_kRFPAlp-QDx5gIng9M.DSG8wn54TbzRK9z3MNvOm1e4ekOxU/3Js+WrpnNvZZA"
+}
+[2022-07-10T15:23:29.907] [DEBUG] debug - =============================
+[2022-07-10T15:24:09.598] [DEBUG] debug - =============================
+[2022-07-10T15:24:09.598] [DEBUG] debug - Method : GET
+[2022-07-10T15:24:09.598] [DEBUG] debug - URL : /login
+[2022-07-10T15:24:09.598] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T06:12:48.577Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T15:24:09.598] [DEBUG] debug - cookie : {
+  "connect.sid": "s:zGfOOETaZLjFlXfuh4up7yXlWRjShpLB.73iQDlQCLt8pm0fW1J3UN9mF3naaqv1Fjy58pjT3k6U"
+}
+[2022-07-10T15:24:09.598] [DEBUG] debug - =============================
+[2022-07-10T15:27:19.864] [DEBUG] debug - =============================
+[2022-07-10T15:27:19.865] [DEBUG] debug - Method : GET
+[2022-07-10T15:27:19.865] [DEBUG] debug - URL : /login
+[2022-07-10T15:27:19.865] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T06:24:09.676Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T15:27:19.865] [DEBUG] debug - cookie : {
+  "connect.sid": "s:zGfOOETaZLjFlXfuh4up7yXlWRjShpLB.73iQDlQCLt8pm0fW1J3UN9mF3naaqv1Fjy58pjT3k6U"
+}
+[2022-07-10T15:27:19.865] [DEBUG] debug - =============================
+[2022-07-10T15:27:39.267] [DEBUG] debug - =============================
+[2022-07-10T15:27:39.267] [DEBUG] debug - Method : GET
+[2022-07-10T15:27:39.267] [DEBUG] debug - URL : /login
+[2022-07-10T15:27:39.267] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T06:27:19.915Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T15:27:39.267] [DEBUG] debug - cookie : {
+  "connect.sid": "s:zGfOOETaZLjFlXfuh4up7yXlWRjShpLB.73iQDlQCLt8pm0fW1J3UN9mF3naaqv1Fjy58pjT3k6U"
+}
+[2022-07-10T15:27:39.267] [DEBUG] debug - =============================
+[2022-07-10T15:28:47.694] [DEBUG] debug - =============================
+[2022-07-10T15:28:47.694] [DEBUG] debug - Method : GET
+[2022-07-10T15:28:47.694] [DEBUG] debug - URL : /login
+[2022-07-10T15:28:47.694] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T06:23:29.930Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T15:28:47.694] [DEBUG] debug - cookie : {
+  "connect.sid": "s:TyjYHMs8jNMrg_kRFPAlp-QDx5gIng9M.DSG8wn54TbzRK9z3MNvOm1e4ekOxU/3Js+WrpnNvZZA"
+}
+[2022-07-10T15:28:47.694] [DEBUG] debug - =============================
+[2022-07-10T15:28:48.653] [DEBUG] debug - =============================
+[2022-07-10T15:28:48.653] [DEBUG] debug - Method : GET
+[2022-07-10T15:28:48.653] [DEBUG] debug - URL : /login
+[2022-07-10T15:28:48.653] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T06:28:47.725Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T15:28:48.653] [DEBUG] debug - cookie : {
+  "connect.sid": "s:TyjYHMs8jNMrg_kRFPAlp-QDx5gIng9M.DSG8wn54TbzRK9z3MNvOm1e4ekOxU/3Js+WrpnNvZZA"
+}
+[2022-07-10T15:28:48.653] [DEBUG] debug - =============================
+[2022-07-10T15:28:56.528] [DEBUG] debug - =============================
+[2022-07-10T15:28:56.529] [DEBUG] debug - Method : GET
+[2022-07-10T15:28:56.529] [DEBUG] debug - URL : /login
+[2022-07-10T15:28:56.529] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T06:27:39.320Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T15:28:56.529] [DEBUG] debug - cookie : {
+  "connect.sid": "s:zGfOOETaZLjFlXfuh4up7yXlWRjShpLB.73iQDlQCLt8pm0fW1J3UN9mF3naaqv1Fjy58pjT3k6U"
+}
+[2022-07-10T15:28:56.529] [DEBUG] debug - =============================
+[2022-07-10T15:29:06.529] [DEBUG] debug - =============================
+[2022-07-10T15:29:06.529] [DEBUG] debug - Method : GET
+[2022-07-10T15:29:06.529] [DEBUG] debug - URL : /login
+[2022-07-10T15:29:06.529] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T06:28:48.685Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T15:29:06.529] [DEBUG] debug - cookie : {
+  "connect.sid": "s:TyjYHMs8jNMrg_kRFPAlp-QDx5gIng9M.DSG8wn54TbzRK9z3MNvOm1e4ekOxU/3Js+WrpnNvZZA"
+}
+[2022-07-10T15:29:06.529] [DEBUG] debug - =============================
+[2022-07-10T15:31:11.299] [DEBUG] debug - =============================
+[2022-07-10T15:31:11.299] [DEBUG] debug - Method : GET
+[2022-07-10T15:31:11.300] [DEBUG] debug - URL : /login
+[2022-07-10T15:31:11.300] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T06:28:56.604Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T15:31:11.300] [DEBUG] debug - cookie : {
+  "connect.sid": "s:zGfOOETaZLjFlXfuh4up7yXlWRjShpLB.73iQDlQCLt8pm0fW1J3UN9mF3naaqv1Fjy58pjT3k6U"
+}
+[2022-07-10T15:31:11.300] [DEBUG] debug - =============================
+[2022-07-10T15:31:15.534] [DEBUG] debug - =============================
+[2022-07-10T15:31:15.534] [DEBUG] debug - Method : GET
+[2022-07-10T15:31:15.534] [DEBUG] debug - URL : /login
+[2022-07-10T15:31:15.534] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T06:29:06.553Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T15:31:15.534] [DEBUG] debug - cookie : {
+  "connect.sid": "s:TyjYHMs8jNMrg_kRFPAlp-QDx5gIng9M.DSG8wn54TbzRK9z3MNvOm1e4ekOxU/3Js+WrpnNvZZA"
+}
+[2022-07-10T15:31:15.534] [DEBUG] debug - =============================
+[2022-07-10T15:31:17.162] [DEBUG] debug - =============================
+[2022-07-10T15:31:17.162] [DEBUG] debug - Method : GET
+[2022-07-10T15:31:17.163] [DEBUG] debug - URL : /login
+[2022-07-10T15:31:17.163] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T06:31:15.601Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T15:31:17.163] [DEBUG] debug - cookie : {
+  "connect.sid": "s:TyjYHMs8jNMrg_kRFPAlp-QDx5gIng9M.DSG8wn54TbzRK9z3MNvOm1e4ekOxU/3Js+WrpnNvZZA"
+}
+[2022-07-10T15:31:17.163] [DEBUG] debug - =============================
+[2022-07-10T15:31:18.327] [DEBUG] debug - =============================
+[2022-07-10T15:31:18.327] [DEBUG] debug - Method : GET
+[2022-07-10T15:31:18.327] [DEBUG] debug - URL : /login
+[2022-07-10T15:31:18.327] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T06:31:17.188Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T15:31:18.327] [DEBUG] debug - cookie : {
+  "connect.sid": "s:TyjYHMs8jNMrg_kRFPAlp-QDx5gIng9M.DSG8wn54TbzRK9z3MNvOm1e4ekOxU/3Js+WrpnNvZZA"
+}
+[2022-07-10T15:31:18.327] [DEBUG] debug - =============================
+[2022-07-10T15:31:58.481] [DEBUG] debug - =============================
+[2022-07-10T15:31:58.481] [DEBUG] debug - Method : GET
+[2022-07-10T15:31:58.481] [DEBUG] debug - URL : /login
+[2022-07-10T15:31:58.481] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T06:31:11.484Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T15:31:58.481] [DEBUG] debug - cookie : {
+  "connect.sid": "s:zGfOOETaZLjFlXfuh4up7yXlWRjShpLB.73iQDlQCLt8pm0fW1J3UN9mF3naaqv1Fjy58pjT3k6U"
+}
+[2022-07-10T15:31:58.481] [DEBUG] debug - =============================
+[2022-07-10T16:15:51.844] [DEBUG] debug - =============================
+[2022-07-10T16:15:51.845] [DEBUG] debug - Method : GET
+[2022-07-10T16:15:51.845] [DEBUG] debug - URL : /login
+[2022-07-10T16:15:51.845] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T07:15:51.837Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {
+    "error": [
+      "ID or Password is incorrect"
+    ]
+  }
+}
+[2022-07-10T16:15:51.845] [DEBUG] debug - cookie : {
+  "connect.sid": "s:TyjYHMs8jNMrg_kRFPAlp-QDx5gIng9M.DSG8wn54TbzRK9z3MNvOm1e4ekOxU/3Js+WrpnNvZZA"
+}
+[2022-07-10T16:15:51.845] [DEBUG] debug - =============================
+[2022-07-10T16:15:58.847] [DEBUG] debug - =============================
+[2022-07-10T16:15:58.847] [DEBUG] debug - Method : GET
+[2022-07-10T16:15:58.847] [DEBUG] debug - URL : /login
+[2022-07-10T16:15:58.847] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T07:15:51.994Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T16:15:58.847] [DEBUG] debug - cookie : {
+  "connect.sid": "s:TyjYHMs8jNMrg_kRFPAlp-QDx5gIng9M.DSG8wn54TbzRK9z3MNvOm1e4ekOxU/3Js+WrpnNvZZA"
+}
+[2022-07-10T16:15:58.847] [DEBUG] debug - =============================
+[2022-07-10T16:16:03.249] [DEBUG] debug - =============================
+[2022-07-10T16:16:03.249] [DEBUG] debug - Method : GET
+[2022-07-10T16:16:03.250] [DEBUG] debug - URL : /login
+[2022-07-10T16:16:03.250] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T06:31:58.535Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T16:16:03.250] [DEBUG] debug - cookie : {
+  "connect.sid": "s:zGfOOETaZLjFlXfuh4up7yXlWRjShpLB.73iQDlQCLt8pm0fW1J3UN9mF3naaqv1Fjy58pjT3k6U"
+}
+[2022-07-10T16:16:03.250] [DEBUG] debug - =============================
+[2022-07-10T16:16:39.864] [DEBUG] debug - =============================
+[2022-07-10T16:16:39.864] [DEBUG] debug - Method : GET
+[2022-07-10T16:16:39.864] [DEBUG] debug - URL : /login
+[2022-07-10T16:16:39.864] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T07:15:58.888Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T16:16:39.864] [DEBUG] debug - cookie : {
+  "connect.sid": "s:TyjYHMs8jNMrg_kRFPAlp-QDx5gIng9M.DSG8wn54TbzRK9z3MNvOm1e4ekOxU/3Js+WrpnNvZZA"
+}
+[2022-07-10T16:16:39.864] [DEBUG] debug - =============================
+[2022-07-10T16:26:59.409] [DEBUG] debug - =============================
+[2022-07-10T16:26:59.412] [DEBUG] debug - Method : GET
+[2022-07-10T16:26:59.412] [DEBUG] debug - URL : /login
+[2022-07-10T16:26:59.413] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T07:16:03.343Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T16:26:59.413] [DEBUG] debug - cookie : {
+  "connect.sid": "s:zGfOOETaZLjFlXfuh4up7yXlWRjShpLB.73iQDlQCLt8pm0fW1J3UN9mF3naaqv1Fjy58pjT3k6U"
+}
+[2022-07-10T16:26:59.413] [DEBUG] debug - =============================
+[2022-07-10T16:27:03.766] [DEBUG] debug - =============================
+[2022-07-10T16:27:03.766] [DEBUG] debug - Method : GET
+[2022-07-10T16:27:03.766] [DEBUG] debug - URL : /login
+[2022-07-10T16:27:03.766] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T07:16:39.951Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T16:27:03.766] [DEBUG] debug - cookie : {
+  "connect.sid": "s:TyjYHMs8jNMrg_kRFPAlp-QDx5gIng9M.DSG8wn54TbzRK9z3MNvOm1e4ekOxU/3Js+WrpnNvZZA"
+}
+[2022-07-10T16:27:03.766] [DEBUG] debug - =============================
+[2022-07-10T16:29:46.961] [DEBUG] debug - =============================
+[2022-07-10T16:29:46.961] [DEBUG] debug - Method : GET
+[2022-07-10T16:29:46.962] [DEBUG] debug - URL : /login
+[2022-07-10T16:29:46.962] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T07:26:59.502Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T16:29:46.962] [DEBUG] debug - cookie : {
+  "connect.sid": "s:zGfOOETaZLjFlXfuh4up7yXlWRjShpLB.73iQDlQCLt8pm0fW1J3UN9mF3naaqv1Fjy58pjT3k6U"
+}
+[2022-07-10T16:29:46.962] [DEBUG] debug - =============================
+[2022-07-10T16:29:50.037] [DEBUG] debug - =============================
+[2022-07-10T16:29:50.037] [DEBUG] debug - Method : GET
+[2022-07-10T16:29:50.037] [DEBUG] debug - URL : /login
+[2022-07-10T16:29:50.037] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T07:27:04.034Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T16:29:50.037] [DEBUG] debug - cookie : {
+  "connect.sid": "s:TyjYHMs8jNMrg_kRFPAlp-QDx5gIng9M.DSG8wn54TbzRK9z3MNvOm1e4ekOxU/3Js+WrpnNvZZA"
+}
+[2022-07-10T16:29:50.037] [DEBUG] debug - =============================
+[2022-07-10T16:30:37.163] [DEBUG] debug - =============================
+[2022-07-10T16:30:37.164] [DEBUG] debug - Method : GET
+[2022-07-10T16:30:37.164] [DEBUG] debug - URL : /login
+[2022-07-10T16:30:37.164] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T07:29:47.017Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T16:30:37.164] [DEBUG] debug - cookie : {
+  "connect.sid": "s:zGfOOETaZLjFlXfuh4up7yXlWRjShpLB.73iQDlQCLt8pm0fW1J3UN9mF3naaqv1Fjy58pjT3k6U"
+}
+[2022-07-10T16:30:37.164] [DEBUG] debug - =============================
+[2022-07-10T16:30:40.219] [DEBUG] debug - =============================
+[2022-07-10T16:30:40.219] [DEBUG] debug - Method : GET
+[2022-07-10T16:30:40.219] [DEBUG] debug - URL : /login
+[2022-07-10T16:30:40.219] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T07:29:50.120Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T16:30:40.219] [DEBUG] debug - cookie : {
+  "connect.sid": "s:TyjYHMs8jNMrg_kRFPAlp-QDx5gIng9M.DSG8wn54TbzRK9z3MNvOm1e4ekOxU/3Js+WrpnNvZZA"
+}
+[2022-07-10T16:30:40.219] [DEBUG] debug - =============================
+[2022-07-10T16:36:50.428] [DEBUG] debug - =============================
+[2022-07-10T16:36:50.428] [DEBUG] debug - Method : GET
+[2022-07-10T16:36:50.428] [DEBUG] debug - URL : /login
+[2022-07-10T16:36:50.428] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T07:36:50.389Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {
+    "error": [
+      "ID or Password is incorrect"
+    ]
+  }
+}
+[2022-07-10T16:36:50.428] [DEBUG] debug - cookie : {
+  "connect.sid": "s:zGfOOETaZLjFlXfuh4up7yXlWRjShpLB.73iQDlQCLt8pm0fW1J3UN9mF3naaqv1Fjy58pjT3k6U"
+}
+[2022-07-10T16:36:50.428] [DEBUG] debug - =============================
+[2022-07-10T16:37:01.119] [DEBUG] debug - =============================
+[2022-07-10T16:37:01.119] [DEBUG] debug - Method : GET
+[2022-07-10T16:37:01.119] [DEBUG] debug - URL : /login
+[2022-07-10T16:37:01.119] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T07:37:01.111Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {
+    "error": [
+      "ID or Password is incorrect"
+    ]
+  }
+}
+[2022-07-10T16:37:01.119] [DEBUG] debug - cookie : {
+  "connect.sid": "s:TyjYHMs8jNMrg_kRFPAlp-QDx5gIng9M.DSG8wn54TbzRK9z3MNvOm1e4ekOxU/3Js+WrpnNvZZA"
+}
+[2022-07-10T16:37:01.119] [DEBUG] debug - =============================
+[2022-07-10T16:37:55.085] [DEBUG] debug - =============================
+[2022-07-10T16:37:55.086] [DEBUG] debug - Method : GET
+[2022-07-10T16:37:55.086] [DEBUG] debug - URL : /login
+[2022-07-10T16:37:55.086] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T07:37:01.170Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T16:37:55.086] [DEBUG] debug - cookie : {
+  "connect.sid": "s:TyjYHMs8jNMrg_kRFPAlp-QDx5gIng9M.DSG8wn54TbzRK9z3MNvOm1e4ekOxU/3Js+WrpnNvZZA"
+}
+[2022-07-10T16:37:55.086] [DEBUG] debug - =============================
+[2022-07-10T16:37:58.217] [DEBUG] debug - =============================
+[2022-07-10T16:37:58.217] [DEBUG] debug - Method : GET
+[2022-07-10T16:37:58.217] [DEBUG] debug - URL : /login
+[2022-07-10T16:37:58.217] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T07:37:58.209Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {
+    "error": [
+      "ID or Password is incorrect"
+    ]
+  }
+}
+[2022-07-10T16:37:58.217] [DEBUG] debug - cookie : {
+  "connect.sid": "s:TyjYHMs8jNMrg_kRFPAlp-QDx5gIng9M.DSG8wn54TbzRK9z3MNvOm1e4ekOxU/3Js+WrpnNvZZA"
+}
+[2022-07-10T16:37:58.217] [DEBUG] debug - =============================
+[2022-07-10T16:38:05.523] [DEBUG] debug - =============================
+[2022-07-10T16:38:05.523] [DEBUG] debug - Method : GET
+[2022-07-10T16:38:05.523] [DEBUG] debug - URL : /login
+[2022-07-10T16:38:05.523] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T07:38:05.516Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {
+    "error": [
+      "ID or Password is incorrect"
+    ]
+  }
+}
+[2022-07-10T16:38:05.523] [DEBUG] debug - cookie : {
+  "connect.sid": "s:TyjYHMs8jNMrg_kRFPAlp-QDx5gIng9M.DSG8wn54TbzRK9z3MNvOm1e4ekOxU/3Js+WrpnNvZZA"
+}
+[2022-07-10T16:38:05.523] [DEBUG] debug - =============================
+[2022-07-10T16:38:12.636] [DEBUG] debug - =============================
+[2022-07-10T16:38:12.636] [DEBUG] debug - Method : GET
+[2022-07-10T16:38:12.636] [DEBUG] debug - URL : /login
+[2022-07-10T16:38:12.636] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T07:38:12.630Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {
+    "error": [
+      "ID or Password is incorrect"
+    ]
+  }
+}
+[2022-07-10T16:38:12.636] [DEBUG] debug - cookie : {
+  "connect.sid": "s:TyjYHMs8jNMrg_kRFPAlp-QDx5gIng9M.DSG8wn54TbzRK9z3MNvOm1e4ekOxU/3Js+WrpnNvZZA"
+}
+[2022-07-10T16:38:12.636] [DEBUG] debug - =============================
+[2022-07-10T16:38:20.835] [DEBUG] debug - =============================
+[2022-07-10T16:38:20.835] [DEBUG] debug - Method : GET
+[2022-07-10T16:38:20.835] [DEBUG] debug - URL : /login
+[2022-07-10T16:38:20.835] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T07:38:20.827Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {
+    "error": [
+      "ID or Password is incorrect"
+    ]
+  }
+}
+[2022-07-10T16:38:20.835] [DEBUG] debug - cookie : {
+  "connect.sid": "s:TyjYHMs8jNMrg_kRFPAlp-QDx5gIng9M.DSG8wn54TbzRK9z3MNvOm1e4ekOxU/3Js+WrpnNvZZA"
+}
+[2022-07-10T16:38:20.835] [DEBUG] debug - =============================
+[2022-07-10T16:39:34.313] [DEBUG] debug - =============================
+[2022-07-10T16:39:34.313] [DEBUG] debug - Method : GET
+[2022-07-10T16:39:34.313] [DEBUG] debug - URL : /login
+[2022-07-10T16:39:34.313] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T07:38:20.871Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T16:39:34.313] [DEBUG] debug - cookie : {
+  "connect.sid": "s:TyjYHMs8jNMrg_kRFPAlp-QDx5gIng9M.DSG8wn54TbzRK9z3MNvOm1e4ekOxU/3Js+WrpnNvZZA"
+}
+[2022-07-10T16:39:34.313] [DEBUG] debug - =============================
+[2022-07-10T16:40:24.380] [DEBUG] debug - =============================
+[2022-07-10T16:40:24.380] [DEBUG] debug - Method : GET
+[2022-07-10T16:40:24.380] [DEBUG] debug - URL : /login
+[2022-07-10T16:40:24.380] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T07:39:34.364Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T16:40:24.380] [DEBUG] debug - cookie : {
+  "connect.sid": "s:TyjYHMs8jNMrg_kRFPAlp-QDx5gIng9M.DSG8wn54TbzRK9z3MNvOm1e4ekOxU/3Js+WrpnNvZZA"
+}
+[2022-07-10T16:40:24.380] [DEBUG] debug - =============================
+[2022-07-10T16:40:25.925] [DEBUG] debug - =============================
+[2022-07-10T16:40:25.925] [DEBUG] debug - Method : GET
+[2022-07-10T16:40:25.925] [DEBUG] debug - URL : /login
+[2022-07-10T16:40:25.925] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T07:36:50.471Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T16:40:25.925] [DEBUG] debug - cookie : {
+  "connect.sid": "s:zGfOOETaZLjFlXfuh4up7yXlWRjShpLB.73iQDlQCLt8pm0fW1J3UN9mF3naaqv1Fjy58pjT3k6U"
+}
+[2022-07-10T16:40:25.925] [DEBUG] debug - =============================
+[2022-07-10T16:45:23.445] [DEBUG] debug - =============================
+[2022-07-10T16:45:23.445] [DEBUG] debug - Method : GET
+[2022-07-10T16:45:23.445] [DEBUG] debug - URL : /login
+[2022-07-10T16:45:23.445] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T07:40:24.433Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T16:45:23.445] [DEBUG] debug - cookie : {
+  "connect.sid": "s:TyjYHMs8jNMrg_kRFPAlp-QDx5gIng9M.DSG8wn54TbzRK9z3MNvOm1e4ekOxU/3Js+WrpnNvZZA"
+}
+[2022-07-10T16:45:23.445] [DEBUG] debug - =============================
+[2022-07-10T16:45:32.329] [DEBUG] debug - =============================
+[2022-07-10T16:45:32.329] [DEBUG] debug - Method : GET
+[2022-07-10T16:45:32.329] [DEBUG] debug - URL : /login
+[2022-07-10T16:45:32.329] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T07:45:23.481Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {}
+}
+[2022-07-10T16:45:32.329] [DEBUG] debug - cookie : {
+  "connect.sid": "s:TyjYHMs8jNMrg_kRFPAlp-QDx5gIng9M.DSG8wn54TbzRK9z3MNvOm1e4ekOxU/3Js+WrpnNvZZA"
+}
+[2022-07-10T16:45:32.329] [DEBUG] debug - =============================
+[2022-07-10T17:24:05.367] [DEBUG] debug - =============================
+[2022-07-10T17:24:05.368] [DEBUG] debug - Method : GET
+[2022-07-10T17:24:05.368] [DEBUG] debug - URL : /
+[2022-07-10T17:24:05.368] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T08:24:05.349Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T17:24:05.368] [DEBUG] debug - =============================
+[2022-07-10T17:24:24.449] [DEBUG] debug - =============================
+[2022-07-10T17:24:24.449] [DEBUG] debug - Method : GET
+[2022-07-10T17:24:24.449] [DEBUG] debug - URL : /
+[2022-07-10T17:24:24.449] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T08:24:24.417Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T17:24:24.449] [DEBUG] debug - =============================
+[2022-07-10T17:35:27.700] [DEBUG] debug - =============================
+[2022-07-10T17:35:27.701] [DEBUG] debug - Method : GET
+[2022-07-10T17:35:27.701] [DEBUG] debug - URL : /
+[2022-07-10T17:35:27.701] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T08:24:05.546Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T17:35:27.701] [DEBUG] debug - =============================
+[2022-07-10T17:36:32.013] [DEBUG] debug - =============================
+[2022-07-10T17:36:32.013] [DEBUG] debug - Method : GET
+[2022-07-10T17:36:32.013] [DEBUG] debug - URL : /
+[2022-07-10T17:36:32.013] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T08:35:27.786Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T17:36:32.013] [DEBUG] debug - =============================
+[2022-07-10T17:36:58.619] [DEBUG] debug - =============================
+[2022-07-10T17:36:58.619] [DEBUG] debug - Method : GET
+[2022-07-10T17:36:58.619] [DEBUG] debug - URL : /
+[2022-07-10T17:36:58.619] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T08:36:32.041Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T17:36:58.619] [DEBUG] debug - =============================
+[2022-07-10T17:39:29.175] [DEBUG] debug - =============================
+[2022-07-10T17:39:29.175] [DEBUG] debug - Method : GET
+[2022-07-10T17:39:29.175] [DEBUG] debug - URL : /
+[2022-07-10T17:39:29.175] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T08:24:24.519Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T17:39:29.175] [DEBUG] debug - =============================
+[2022-07-10T17:39:38.907] [DEBUG] debug - =============================
+[2022-07-10T17:39:38.907] [DEBUG] debug - Method : GET
+[2022-07-10T17:39:38.907] [DEBUG] debug - URL : /
+[2022-07-10T17:39:38.907] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T08:36:58.659Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T17:39:38.907] [DEBUG] debug - =============================
+[2022-07-10T17:39:42.701] [DEBUG] debug - =============================
+[2022-07-10T17:39:42.701] [DEBUG] debug - Method : GET
+[2022-07-10T17:39:42.701] [DEBUG] debug - URL : /
+[2022-07-10T17:39:42.701] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T08:39:29.306Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T17:39:42.701] [DEBUG] debug - =============================
+[2022-07-10T18:09:33.707] [DEBUG] debug - =============================
+[2022-07-10T18:09:33.709] [DEBUG] debug - Method : GET
+[2022-07-10T18:09:33.709] [DEBUG] debug - URL : /
+[2022-07-10T18:09:33.709] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T08:39:38.944Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T18:09:33.709] [DEBUG] debug - =============================
+[2022-07-10T18:09:36.818] [DEBUG] debug - =============================
+[2022-07-10T18:09:36.818] [DEBUG] debug - Method : GET
+[2022-07-10T18:09:36.818] [DEBUG] debug - URL : /
+[2022-07-10T18:09:36.818] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T08:39:42.762Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T18:09:36.824] [DEBUG] debug - =============================
+[2022-07-10T18:45:55.494] [DEBUG] debug - =============================
+[2022-07-10T18:45:55.495] [DEBUG] debug - Method : GET
+[2022-07-10T18:45:55.496] [DEBUG] debug - URL : /
+[2022-07-10T18:45:55.496] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T09:09:36.989Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T18:45:55.496] [DEBUG] debug - =============================
+[2022-07-10T18:46:01.347] [DEBUG] debug - =============================
+[2022-07-10T18:46:01.347] [DEBUG] debug - Method : GET
+[2022-07-10T18:46:01.347] [DEBUG] debug - URL : /
+[2022-07-10T18:46:01.347] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T09:09:33.857Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T18:46:01.347] [DEBUG] debug - =============================
+[2022-07-10T18:58:23.961] [DEBUG] debug - =============================
+[2022-07-10T18:58:23.964] [DEBUG] debug - Method : GET
+[2022-07-10T18:58:23.965] [DEBUG] debug - URL : /games_history
+[2022-07-10T18:58:23.965] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T09:46:01.595Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T18:58:23.965] [DEBUG] debug - =============================
+[2022-07-10T18:58:25.841] [DEBUG] debug - =============================
+[2022-07-10T18:58:25.841] [DEBUG] debug - Method : GET
+[2022-07-10T18:58:25.841] [DEBUG] debug - URL : /games_history
+[2022-07-10T18:58:25.841] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T09:45:55.604Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T18:58:25.841] [DEBUG] debug - =============================
+[2022-07-10T19:08:29.103] [DEBUG] debug - =============================
+[2022-07-10T19:08:29.105] [DEBUG] debug - Method : GET
+[2022-07-10T19:08:29.105] [DEBUG] debug - URL : /games_history
+[2022-07-10T19:08:29.105] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T09:58:25.906Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T19:08:29.105] [DEBUG] debug - =============================
+[2022-07-10T19:09:02.907] [DEBUG] debug - =============================
+[2022-07-10T19:09:02.907] [DEBUG] debug - Method : GET
+[2022-07-10T19:09:02.907] [DEBUG] debug - URL : /games_history
+[2022-07-10T19:09:02.907] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T10:08:29.406Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T19:09:02.907] [DEBUG] debug - =============================
+[2022-07-10T19:09:05.975] [DEBUG] debug - =============================
+[2022-07-10T19:09:05.975] [DEBUG] debug - Method : GET
+[2022-07-10T19:09:05.975] [DEBUG] debug - URL : /games_history
+[2022-07-10T19:09:05.975] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T09:58:24.151Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T19:09:05.975] [DEBUG] debug - =============================
+[2022-07-10T19:09:48.318] [DEBUG] debug - =============================
+[2022-07-10T19:09:48.318] [DEBUG] debug - Method : GET
+[2022-07-10T19:09:48.318] [DEBUG] debug - URL : /games_history
+[2022-07-10T19:09:48.318] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T10:09:02.973Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T19:09:48.318] [DEBUG] debug - =============================
+[2022-07-10T19:09:53.796] [DEBUG] debug - =============================
+[2022-07-10T19:09:53.796] [DEBUG] debug - Method : GET
+[2022-07-10T19:09:53.796] [DEBUG] debug - URL : /games_history
+[2022-07-10T19:09:53.796] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T10:09:06.041Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T19:09:53.796] [DEBUG] debug - =============================
+[2022-07-10T19:10:06.635] [DEBUG] debug - =============================
+[2022-07-10T19:10:06.635] [DEBUG] debug - Method : GET
+[2022-07-10T19:10:06.635] [DEBUG] debug - URL : /games_history
+[2022-07-10T19:10:06.635] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T10:09:53.828Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T19:10:06.635] [DEBUG] debug - =============================
+[2022-07-10T19:10:07.588] [DEBUG] debug - =============================
+[2022-07-10T19:10:07.588] [DEBUG] debug - Method : GET
+[2022-07-10T19:10:07.588] [DEBUG] debug - URL : /games_history
+[2022-07-10T19:10:07.588] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T10:09:48.379Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T19:10:07.588] [DEBUG] debug - =============================
+[2022-07-10T19:10:24.983] [DEBUG] debug - =============================
+[2022-07-10T19:10:24.983] [DEBUG] debug - Method : GET
+[2022-07-10T19:10:24.983] [DEBUG] debug - URL : /games_history
+[2022-07-10T19:10:24.984] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T10:10:07.639Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T19:10:24.984] [DEBUG] debug - =============================
+[2022-07-10T19:15:04.576] [DEBUG] debug - =============================
+[2022-07-10T19:15:04.576] [DEBUG] debug - Method : GET
+[2022-07-10T19:15:04.576] [DEBUG] debug - URL : /games_history
+[2022-07-10T19:15:04.576] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T10:10:06.662Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T19:15:04.576] [DEBUG] debug - =============================
+[2022-07-10T19:15:06.841] [DEBUG] debug - =============================
+[2022-07-10T19:15:06.841] [DEBUG] debug - Method : GET
+[2022-07-10T19:15:06.841] [DEBUG] debug - URL : /games_history
+[2022-07-10T19:15:06.841] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T10:10:25.048Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T19:15:06.841] [DEBUG] debug - =============================
+[2022-07-10T19:15:27.497] [DEBUG] debug - =============================
+[2022-07-10T19:15:27.497] [DEBUG] debug - Method : GET
+[2022-07-10T19:15:27.497] [DEBUG] debug - URL : /games_history
+[2022-07-10T19:15:27.497] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T10:15:04.685Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T19:15:27.497] [DEBUG] debug - =============================
+[2022-07-10T19:15:29.248] [DEBUG] debug - =============================
+[2022-07-10T19:15:29.248] [DEBUG] debug - Method : GET
+[2022-07-10T19:15:29.249] [DEBUG] debug - URL : /games_history
+[2022-07-10T19:15:29.249] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T10:15:06.946Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T19:15:29.249] [DEBUG] debug - =============================
+[2022-07-10T19:28:44.586] [DEBUG] debug - =============================
+[2022-07-10T19:28:44.589] [DEBUG] debug - Method : GET
+[2022-07-10T19:28:44.589] [DEBUG] debug - URL : /games_history
+[2022-07-10T19:28:44.589] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T10:15:29.302Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T19:28:44.589] [DEBUG] debug - =============================
+[2022-07-10T19:31:07.478] [DEBUG] debug - =============================
+[2022-07-10T19:31:07.478] [DEBUG] debug - Method : GET
+[2022-07-10T19:31:07.478] [DEBUG] debug - URL : /games_history
+[2022-07-10T19:31:07.478] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T10:15:27.525Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T19:31:07.482] [DEBUG] debug - =============================
+[2022-07-10T19:31:09.979] [DEBUG] debug - =============================
+[2022-07-10T19:31:09.979] [DEBUG] debug - Method : GET
+[2022-07-10T19:31:09.979] [DEBUG] debug - URL : /games_history
+[2022-07-10T19:31:09.979] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T10:28:44.849Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T19:31:09.979] [DEBUG] debug - =============================
+[2022-07-10T19:31:44.474] [DEBUG] debug - =============================
+[2022-07-10T19:31:44.474] [DEBUG] debug - Method : GET
+[2022-07-10T19:31:44.474] [DEBUG] debug - URL : /games_history
+[2022-07-10T19:31:44.474] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T10:31:07.670Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T19:31:44.474] [DEBUG] debug - =============================
+[2022-07-10T19:31:46.068] [DEBUG] debug - =============================
+[2022-07-10T19:31:46.068] [DEBUG] debug - Method : GET
+[2022-07-10T19:31:46.068] [DEBUG] debug - URL : /games_history
+[2022-07-10T19:31:46.068] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T10:31:10.029Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T19:31:46.068] [DEBUG] debug - =============================
+[2022-07-10T21:02:06.119] [DEBUG] debug - =============================
+[2022-07-10T21:02:06.120] [DEBUG] debug - Method : GET
+[2022-07-10T21:02:06.120] [DEBUG] debug - URL : /games_history
+[2022-07-10T21:02:06.120] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T10:31:46.123Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T21:02:06.120] [DEBUG] debug - =============================
+[2022-07-10T21:02:37.235] [DEBUG] debug - =============================
+[2022-07-10T21:02:37.235] [DEBUG] debug - Method : GET
+[2022-07-10T21:02:37.235] [DEBUG] debug - URL : /scorebook/1
+[2022-07-10T21:02:37.235] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T10:31:44.516Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T21:02:37.235] [DEBUG] debug - =============================
+[2022-07-10T21:02:42.742] [DEBUG] debug - =============================
+[2022-07-10T21:02:42.742] [DEBUG] debug - Method : GET
+[2022-07-10T21:02:42.742] [DEBUG] debug - URL : /scorebook/1
+[2022-07-10T21:02:42.742] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T12:02:06.291Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T21:02:42.742] [DEBUG] debug - =============================
+[2022-07-10T21:26:44.017] [DEBUG] debug - =============================
+[2022-07-10T21:26:44.017] [DEBUG] debug - Method : GET
+[2022-07-10T21:26:44.017] [DEBUG] debug - URL : /scorebook/1
+[2022-07-10T21:26:44.017] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T12:02:42.924Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T21:26:44.017] [DEBUG] debug - =============================
+[2022-07-10T21:26:48.153] [DEBUG] debug - =============================
+[2022-07-10T21:26:48.154] [DEBUG] debug - Method : GET
+[2022-07-10T21:26:48.154] [DEBUG] debug - URL : /scorebook/1
+[2022-07-10T21:26:48.154] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399999,
+    "expires": "2022-07-11T12:02:37.366Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T21:26:48.154] [DEBUG] debug - =============================
+[2022-07-10T21:27:45.180] [DEBUG] debug - =============================
+[2022-07-10T21:27:45.180] [DEBUG] debug - Method : GET
+[2022-07-10T21:27:45.180] [DEBUG] debug - URL : /scorebook/1
+[2022-07-10T21:27:45.180] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T12:26:44.131Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T21:27:45.180] [DEBUG] debug - =============================
+[2022-07-10T21:27:48.366] [DEBUG] debug - =============================
+[2022-07-10T21:27:48.366] [DEBUG] debug - Method : GET
+[2022-07-10T21:27:48.366] [DEBUG] debug - URL : /scorebook/1
+[2022-07-10T21:27:48.366] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399999,
+    "expires": "2022-07-11T12:26:48.211Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T21:27:48.366] [DEBUG] debug - =============================
+[2022-07-10T21:32:15.515] [DEBUG] debug - =============================
+[2022-07-10T21:32:15.515] [DEBUG] debug - Method : GET
+[2022-07-10T21:32:15.515] [DEBUG] debug - URL : /scorebook/1
+[2022-07-10T21:32:15.515] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T12:27:45.273Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T21:32:15.515] [DEBUG] debug - =============================
+[2022-07-10T21:33:22.138] [DEBUG] debug - =============================
+[2022-07-10T21:33:22.138] [DEBUG] debug - Method : GET
+[2022-07-10T21:33:22.139] [DEBUG] debug - URL : /scorebook/1
+[2022-07-10T21:33:22.139] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399999,
+    "expires": "2022-07-11T12:27:48.453Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T21:33:22.139] [DEBUG] debug - =============================
+[2022-07-10T21:34:17.630] [DEBUG] debug - =============================
+[2022-07-10T21:34:17.630] [DEBUG] debug - Method : GET
+[2022-07-10T21:34:17.630] [DEBUG] debug - URL : /scorebook/1
+[2022-07-10T21:34:17.630] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399999,
+    "expires": "2022-07-11T12:33:22.184Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T21:34:17.630] [DEBUG] debug - =============================
+[2022-07-10T21:34:54.318] [DEBUG] debug - =============================
+[2022-07-10T21:34:54.318] [DEBUG] debug - Method : GET
+[2022-07-10T21:34:54.318] [DEBUG] debug - URL : /scorebook/1
+[2022-07-10T21:34:54.318] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T12:32:15.620Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T21:34:54.318] [DEBUG] debug - =============================
+[2022-07-10T21:39:10.030] [DEBUG] debug - =============================
+[2022-07-10T21:39:10.030] [DEBUG] debug - Method : GET
+[2022-07-10T21:39:10.030] [DEBUG] debug - URL : /scorebook/1
+[2022-07-10T21:39:10.030] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T12:34:54.412Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T21:39:10.030] [DEBUG] debug - =============================
+[2022-07-10T21:39:13.188] [DEBUG] debug - =============================
+[2022-07-10T21:39:13.188] [DEBUG] debug - Method : GET
+[2022-07-10T21:39:13.188] [DEBUG] debug - URL : /scorebook/1
+[2022-07-10T21:39:13.188] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399999,
+    "expires": "2022-07-11T12:34:17.665Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T21:39:13.188] [DEBUG] debug - =============================
+[2022-07-10T21:39:36.135] [DEBUG] debug - =============================
+[2022-07-10T21:39:36.135] [DEBUG] debug - Method : GET
+[2022-07-10T21:39:36.135] [DEBUG] debug - URL : /scorebook/1
+[2022-07-10T21:39:36.135] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T12:39:10.142Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T21:39:36.135] [DEBUG] debug - =============================
+[2022-07-10T21:39:38.364] [DEBUG] debug - =============================
+[2022-07-10T21:39:38.364] [DEBUG] debug - Method : GET
+[2022-07-10T21:39:38.364] [DEBUG] debug - URL : /scorebook/1
+[2022-07-10T21:39:38.364] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T12:39:36.201Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T21:39:38.364] [DEBUG] debug - =============================
+[2022-07-10T21:39:50.904] [DEBUG] debug - =============================
+[2022-07-10T21:39:50.904] [DEBUG] debug - Method : GET
+[2022-07-10T21:39:50.904] [DEBUG] debug - URL : /scorebook/1
+[2022-07-10T21:39:50.904] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399999,
+    "expires": "2022-07-11T12:39:13.232Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T21:39:50.904] [DEBUG] debug - =============================
+[2022-07-10T21:40:05.670] [DEBUG] debug - =============================
+[2022-07-10T21:40:05.670] [DEBUG] debug - Method : GET
+[2022-07-10T21:40:05.670] [DEBUG] debug - URL : /scorebook/1
+[2022-07-10T21:40:05.670] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T12:39:38.420Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T21:40:05.670] [DEBUG] debug - =============================
+[2022-07-10T21:40:23.683] [DEBUG] debug - =============================
+[2022-07-10T21:40:23.683] [DEBUG] debug - Method : GET
+[2022-07-10T21:40:23.683] [DEBUG] debug - URL : /scorebook/1
+[2022-07-10T21:40:23.684] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T12:40:05.741Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T21:40:23.684] [DEBUG] debug - =============================
+[2022-07-10T21:40:38.107] [DEBUG] debug - =============================
+[2022-07-10T21:40:38.107] [DEBUG] debug - Method : GET
+[2022-07-10T21:40:38.107] [DEBUG] debug - URL : /scorebook/1
+[2022-07-10T21:40:38.107] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399999,
+    "expires": "2022-07-11T12:39:50.933Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T21:40:38.107] [DEBUG] debug - =============================
+[2022-07-10T21:41:52.752] [DEBUG] debug - =============================
+[2022-07-10T21:41:52.753] [DEBUG] debug - Method : GET
+[2022-07-10T21:41:52.753] [DEBUG] debug - URL : /scorebook/1
+[2022-07-10T21:41:52.753] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399999,
+    "expires": "2022-07-11T12:40:38.155Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T21:41:52.753] [DEBUG] debug - =============================
+[2022-07-10T21:41:58.915] [DEBUG] debug - =============================
+[2022-07-10T21:41:58.915] [DEBUG] debug - Method : GET
+[2022-07-10T21:41:58.915] [DEBUG] debug - URL : /scorebook/1
+[2022-07-10T21:41:58.915] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T12:40:23.772Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T21:41:58.915] [DEBUG] debug - =============================
+[2022-07-10T21:42:56.522] [DEBUG] debug - =============================
+[2022-07-10T21:42:56.522] [DEBUG] debug - Method : POST
+[2022-07-10T21:42:56.522] [DEBUG] debug - URL : /batterBox?boxId=2-1
+[2022-07-10T21:42:56.522] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399999,
+    "expires": "2022-07-11T12:41:52.807Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T21:42:56.522] [DEBUG] debug - Req Body : {
+  "orderNum": "2",
+  "playerName": "新村一真"
+}
+[2022-07-10T21:42:56.522] [DEBUG] debug - =============================
+[2022-07-10T21:43:02.894] [DEBUG] debug - =============================
+[2022-07-10T21:43:02.894] [DEBUG] debug - Method : GET
+[2022-07-10T21:43:02.894] [DEBUG] debug - URL : /back
+[2022-07-10T21:43:02.894] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399999,
+    "expires": "2022-07-11T12:42:56.571Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T21:43:02.894] [DEBUG] debug - =============================
+[2022-07-10T21:43:02.908] [DEBUG] debug - =============================
+[2022-07-10T21:43:02.908] [DEBUG] debug - Method : GET
+[2022-07-10T21:43:02.908] [DEBUG] debug - URL : /scorebook/1
+[2022-07-10T21:43:02.908] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399999,
+    "expires": "2022-07-11T12:43:02.901Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T21:43:02.908] [DEBUG] debug - =============================
+[2022-07-10T21:44:48.185] [DEBUG] debug - =============================
+[2022-07-10T21:44:48.185] [DEBUG] debug - Method : POST
+[2022-07-10T21:44:48.185] [DEBUG] debug - URL : /batterBox?boxId=1-2
+[2022-07-10T21:44:48.185] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399999,
+    "expires": "2022-07-11T12:43:02.941Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T21:44:48.185] [DEBUG] debug - Req Body : {
+  "orderNum": "1",
+  "playerName": "末廣風真"
+}
+[2022-07-10T21:44:48.186] [DEBUG] debug - =============================
+[2022-07-10T21:44:59.164] [DEBUG] debug - =============================
+[2022-07-10T21:44:59.164] [DEBUG] debug - Method : POST
+[2022-07-10T21:44:59.164] [DEBUG] debug - URL : /batterBox?boxId=1-2
+[2022-07-10T21:44:59.164] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399999,
+    "expires": "2022-07-11T12:44:48.225Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T21:44:59.164] [DEBUG] debug - Req Body : {
+  "orderNum": "1",
+  "playerName": "末廣風真"
+}
+[2022-07-10T21:44:59.164] [DEBUG] debug - =============================
+[2022-07-10T21:45:04.586] [DEBUG] debug - =============================
+[2022-07-10T21:45:04.586] [DEBUG] debug - Method : GET
+[2022-07-10T21:45:04.586] [DEBUG] debug - URL : /player&order=1&name=末廣風真
+[2022-07-10T21:45:04.587] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T12:41:59.009Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T21:45:04.587] [DEBUG] debug - =============================
+[2022-07-10T21:45:07.228] [DEBUG] debug - =============================
+[2022-07-10T21:45:07.228] [DEBUG] debug - Method : GET
+[2022-07-10T21:45:07.228] [DEBUG] debug - URL : /back
+[2022-07-10T21:45:07.228] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T12:45:04.636Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T21:45:07.228] [DEBUG] debug - =============================
+[2022-07-10T21:45:07.259] [DEBUG] debug - =============================
+[2022-07-10T21:45:07.259] [DEBUG] debug - Method : GET
+[2022-07-10T21:45:07.259] [DEBUG] debug - URL : /scorebook/1
+[2022-07-10T21:45:07.259] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T12:45:07.229Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T21:45:07.259] [DEBUG] debug - =============================
+[2022-07-10T21:45:09.577] [DEBUG] debug - =============================
+[2022-07-10T21:45:09.577] [DEBUG] debug - Method : POST
+[2022-07-10T21:45:09.577] [DEBUG] debug - URL : /batterBox?boxId=1-2
+[2022-07-10T21:45:09.577] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T12:45:07.337Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T21:45:09.577] [DEBUG] debug - Req Body : {
+  "orderNum": "1",
+  "playerName": "末廣風真"
+}
+[2022-07-10T21:45:09.577] [DEBUG] debug - =============================
+[2022-07-10T21:49:15.247] [DEBUG] debug - =============================
+[2022-07-10T21:49:15.247] [DEBUG] debug - Method : POST
+[2022-07-10T21:49:15.247] [DEBUG] debug - URL : /batterBox?boxId=1-2
+[2022-07-10T21:49:15.247] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T12:45:09.637Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T21:49:15.247] [DEBUG] debug - Req Body : {
+  "orderNum": "1",
+  "playerName": "末廣風真"
+}
+[2022-07-10T21:49:15.247] [DEBUG] debug - =============================
+[2022-07-10T21:50:45.444] [DEBUG] debug - =============================
+[2022-07-10T21:50:45.444] [DEBUG] debug - Method : POST
+[2022-07-10T21:50:45.444] [DEBUG] debug - URL : /batterBox?boxId=1-2
+[2022-07-10T21:50:45.444] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T12:49:15.381Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T21:50:45.444] [DEBUG] debug - Req Body : {
+  "orderNum": "1",
+  "playerName": "末廣風真"
+}
+[2022-07-10T21:50:45.444] [DEBUG] debug - =============================
+[2022-07-10T21:52:55.530] [DEBUG] debug - =============================
+[2022-07-10T21:52:55.530] [DEBUG] debug - Method : POST
+[2022-07-10T21:52:55.530] [DEBUG] debug - URL : /batterBox?boxId=1-2
+[2022-07-10T21:52:55.530] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T12:50:45.498Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T21:52:55.530] [DEBUG] debug - Req Body : {
+  "orderNum": "1",
+  "playerName": "末廣風真"
+}
+[2022-07-10T21:52:55.530] [DEBUG] debug - =============================
+[2022-07-10T21:56:39.070] [DEBUG] debug - =============================
+[2022-07-10T21:56:39.070] [DEBUG] debug - Method : POST
+[2022-07-10T21:56:39.070] [DEBUG] debug - URL : /batterBox?boxId=1-2
+[2022-07-10T21:56:39.070] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399999,
+    "expires": "2022-07-11T12:44:59.201Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T21:56:39.070] [DEBUG] debug - Req Body : {
+  "orderNum": "1",
+  "playerName": "末廣風真"
+}
+[2022-07-10T21:56:39.070] [DEBUG] debug - =============================
+[2022-07-10T21:56:41.894] [DEBUG] debug - =============================
+[2022-07-10T21:56:41.894] [DEBUG] debug - Method : POST
+[2022-07-10T21:56:41.894] [DEBUG] debug - URL : /batterBox?boxId=1-2
+[2022-07-10T21:56:41.894] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T12:52:55.661Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T21:56:41.894] [DEBUG] debug - Req Body : {
+  "orderNum": "1",
+  "playerName": "末廣風真"
+}
+[2022-07-10T21:56:41.894] [DEBUG] debug - =============================
+[2022-07-10T21:58:21.547] [DEBUG] debug - =============================
+[2022-07-10T21:58:21.547] [DEBUG] debug - Method : GET
+[2022-07-10T21:58:21.547] [DEBUG] debug - URL : /back
+[2022-07-10T21:58:21.547] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399999,
+    "expires": "2022-07-11T12:56:39.097Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T21:58:21.547] [DEBUG] debug - =============================
+[2022-07-10T21:58:21.557] [DEBUG] debug - =============================
+[2022-07-10T21:58:21.557] [DEBUG] debug - Method : GET
+[2022-07-10T21:58:21.557] [DEBUG] debug - URL : /scorebook/1
+[2022-07-10T21:58:21.557] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399999,
+    "expires": "2022-07-11T12:58:21.547Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T21:58:21.557] [DEBUG] debug - =============================
+[2022-07-10T21:58:23.197] [DEBUG] debug - =============================
+[2022-07-10T21:58:23.197] [DEBUG] debug - Method : GET
+[2022-07-10T21:58:23.197] [DEBUG] debug - URL : /player&order=1&name=末廣風真
+[2022-07-10T21:58:23.197] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399999,
+    "expires": "2022-07-11T12:58:21.619Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T21:58:23.197] [DEBUG] debug - =============================
+[2022-07-10T21:58:24.584] [DEBUG] debug - =============================
+[2022-07-10T21:58:24.584] [DEBUG] debug - Method : GET
+[2022-07-10T21:58:24.584] [DEBUG] debug - URL : /back
+[2022-07-10T21:58:24.584] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T12:56:41.965Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T21:58:24.584] [DEBUG] debug - =============================
+[2022-07-10T21:58:24.609] [DEBUG] debug - =============================
+[2022-07-10T21:58:24.609] [DEBUG] debug - Method : GET
+[2022-07-10T21:58:24.609] [DEBUG] debug - URL : /scorebook/1
+[2022-07-10T21:58:24.609] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T12:58:24.585Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T21:58:24.609] [DEBUG] debug - =============================
+[2022-07-10T21:58:26.200] [DEBUG] debug - =============================
+[2022-07-10T21:58:26.200] [DEBUG] debug - Method : GET
+[2022-07-10T21:58:26.200] [DEBUG] debug - URL : /player&order=1&name=末廣風真
+[2022-07-10T21:58:26.200] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T12:58:24.652Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T21:58:26.200] [DEBUG] debug - =============================
+[2022-07-10T21:59:03.745] [DEBUG] debug - =============================
+[2022-07-10T21:59:03.745] [DEBUG] debug - Method : GET
+[2022-07-10T21:59:03.745] [DEBUG] debug - URL : /player&order=1&name=末廣風真
+[2022-07-10T21:59:03.745] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399999,
+    "expires": "2022-07-11T12:58:23.235Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T21:59:03.745] [DEBUG] debug - =============================
+[2022-07-10T21:59:05.262] [DEBUG] debug - =============================
+[2022-07-10T21:59:05.262] [DEBUG] debug - Method : GET
+[2022-07-10T21:59:05.262] [DEBUG] debug - URL : /player&order=1&name=末廣風真
+[2022-07-10T21:59:05.262] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T12:58:26.251Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T21:59:05.263] [DEBUG] debug - =============================
+[2022-07-10T22:00:31.985] [DEBUG] debug - =============================
+[2022-07-10T22:00:31.985] [DEBUG] debug - Method : GET
+[2022-07-10T22:00:31.985] [DEBUG] debug - URL : /player&order=1&name=末廣風真
+[2022-07-10T22:00:31.985] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T12:59:05.343Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T22:00:31.985] [DEBUG] debug - =============================
+[2022-07-10T22:00:34.724] [DEBUG] debug - =============================
+[2022-07-10T22:00:34.724] [DEBUG] debug - Method : GET
+[2022-07-10T22:00:34.724] [DEBUG] debug - URL : /player&order=1&name=末廣風真
+[2022-07-10T22:00:34.724] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399998,
+    "expires": "2022-07-11T12:59:03.791Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T22:00:34.724] [DEBUG] debug - =============================
+[2022-07-10T22:00:36.130] [DEBUG] debug - =============================
+[2022-07-10T22:00:36.130] [DEBUG] debug - Method : GET
+[2022-07-10T22:00:36.130] [DEBUG] debug - URL : /player&order=1&name=末廣風真
+[2022-07-10T22:00:36.130] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399998,
+    "expires": "2022-07-11T13:00:34.759Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T22:00:36.130] [DEBUG] debug - =============================
+[2022-07-10T22:05:47.517] [DEBUG] debug - =============================
+[2022-07-10T22:05:47.517] [DEBUG] debug - Method : GET
+[2022-07-10T22:05:47.517] [DEBUG] debug - URL : /player&order=1&name=末廣風真
+[2022-07-10T22:05:47.517] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399998,
+    "expires": "2022-07-11T13:00:36.155Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T22:05:47.517] [DEBUG] debug - =============================
+[2022-07-10T22:05:49.406] [DEBUG] debug - =============================
+[2022-07-10T22:05:49.406] [DEBUG] debug - Method : GET
+[2022-07-10T22:05:49.406] [DEBUG] debug - URL : /player&order=1&name=末廣風真
+[2022-07-10T22:05:49.406] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T13:00:32.044Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T22:05:49.406] [DEBUG] debug - =============================
+[2022-07-10T22:06:43.364] [DEBUG] debug - =============================
+[2022-07-10T22:06:43.364] [DEBUG] debug - Method : GET
+[2022-07-10T22:06:43.364] [DEBUG] debug - URL : /player&order=1&name=末廣風真
+[2022-07-10T22:06:43.365] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399998,
+    "expires": "2022-07-11T13:05:47.545Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T22:06:43.365] [DEBUG] debug - =============================
+[2022-07-10T22:07:01.086] [DEBUG] debug - =============================
+[2022-07-10T22:07:01.086] [DEBUG] debug - Method : GET
+[2022-07-10T22:07:01.086] [DEBUG] debug - URL : /player&order=1&name=末廣風真
+[2022-07-10T22:07:01.086] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399998,
+    "expires": "2022-07-11T13:06:43.400Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T22:07:01.086] [DEBUG] debug - =============================
+[2022-07-10T22:07:24.257] [DEBUG] debug - =============================
+[2022-07-10T22:07:24.257] [DEBUG] debug - Method : GET
+[2022-07-10T22:07:24.257] [DEBUG] debug - URL : /player&order=1&name=末廣風真
+[2022-07-10T22:07:24.257] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399998,
+    "expires": "2022-07-11T13:07:01.118Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T22:07:24.257] [DEBUG] debug - =============================
+[2022-07-10T22:07:31.447] [DEBUG] debug - =============================
+[2022-07-10T22:07:31.447] [DEBUG] debug - Method : GET
+[2022-07-10T22:07:31.447] [DEBUG] debug - URL : /player&order=1&name=末廣風真
+[2022-07-10T22:07:31.447] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399998,
+    "expires": "2022-07-11T13:07:24.279Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T22:07:31.447] [DEBUG] debug - =============================
+[2022-07-10T22:09:07.110] [DEBUG] debug - =============================
+[2022-07-10T22:09:07.110] [DEBUG] debug - Method : GET
+[2022-07-10T22:09:07.110] [DEBUG] debug - URL : /player&order=1&name=末廣風真
+[2022-07-10T22:09:07.110] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399998,
+    "expires": "2022-07-11T13:07:52.210Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T22:09:07.110] [DEBUG] debug - =============================
+[2022-07-10T22:09:09.011] [DEBUG] debug - =============================
+[2022-07-10T22:09:09.011] [DEBUG] debug - Method : GET
+[2022-07-10T22:09:09.011] [DEBUG] debug - URL : /player&order=1&name=末廣風真
+[2022-07-10T22:09:09.011] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T13:05:49.479Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T22:09:09.011] [DEBUG] debug - =============================
+[2022-07-10T22:09:30.887] [DEBUG] debug - =============================
+[2022-07-10T22:09:30.887] [DEBUG] debug - Method : GET
+[2022-07-10T22:09:30.887] [DEBUG] debug - URL : /player&order=1&name=末廣風真
+[2022-07-10T22:09:30.887] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399998,
+    "expires": "2022-07-11T13:09:07.229Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T22:09:30.887] [DEBUG] debug - =============================
+[2022-07-10T22:09:59.204] [DEBUG] debug - =============================
+[2022-07-10T22:09:59.204] [DEBUG] debug - Method : GET
+[2022-07-10T22:09:59.204] [DEBUG] debug - URL : /player&order=1&name=末廣風真
+[2022-07-10T22:09:59.204] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399998,
+    "expires": "2022-07-11T13:09:30.973Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T22:09:59.204] [DEBUG] debug - =============================
+[2022-07-10T22:10:01.454] [DEBUG] debug - =============================
+[2022-07-10T22:10:01.454] [DEBUG] debug - Method : GET
+[2022-07-10T22:10:01.454] [DEBUG] debug - URL : /back
+[2022-07-10T22:10:01.454] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399998,
+    "expires": "2022-07-11T13:09:59.281Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T22:10:01.454] [DEBUG] debug - =============================
+[2022-07-10T22:10:01.460] [DEBUG] debug - =============================
+[2022-07-10T22:10:01.460] [DEBUG] debug - Method : GET
+[2022-07-10T22:10:01.462] [DEBUG] debug - URL : /scorebook/1
+[2022-07-10T22:10:01.462] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399998,
+    "expires": "2022-07-11T13:10:01.452Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T22:10:01.462] [DEBUG] debug - =============================
+[2022-07-10T22:10:03.613] [DEBUG] debug - =============================
+[2022-07-10T22:10:03.613] [DEBUG] debug - Method : POST
+[2022-07-10T22:10:03.613] [DEBUG] debug - URL : /batterBox?boxId=1-1
+[2022-07-10T22:10:03.613] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399998,
+    "expires": "2022-07-11T13:10:01.575Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T22:10:03.613] [DEBUG] debug - Req Body : {
+  "orderNum": "1",
+  "playerName": "末廣風真"
+}
+[2022-07-10T22:10:03.613] [DEBUG] debug - =============================
+[2022-07-10T22:10:15.876] [DEBUG] debug - =============================
+[2022-07-10T22:10:15.876] [DEBUG] debug - Method : POST
+[2022-07-10T22:10:15.876] [DEBUG] debug - URL : /batterBox?boxId=1-1
+[2022-07-10T22:10:15.876] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399998,
+    "expires": "2022-07-11T13:10:03.707Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T22:10:15.877] [DEBUG] debug - Req Body : {
+  "orderNum": "1",
+  "playerName": "末廣風真"
+}
+[2022-07-10T22:10:15.877] [DEBUG] debug - =============================
+[2022-07-10T22:10:16.792] [DEBUG] debug - =============================
+[2022-07-10T22:10:16.792] [DEBUG] debug - Method : POST
+[2022-07-10T22:10:16.792] [DEBUG] debug - URL : /batterBox?boxId=1-1
+[2022-07-10T22:10:16.792] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399998,
+    "expires": "2022-07-11T13:10:15.948Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T22:10:16.792] [DEBUG] debug - Req Body : {
+  "orderNum": "1",
+  "playerName": "末廣風真"
+}
+[2022-07-10T22:10:16.792] [DEBUG] debug - =============================
+[2022-07-10T22:10:22.375] [DEBUG] debug - =============================
+[2022-07-10T22:10:22.375] [DEBUG] debug - Method : POST
+[2022-07-10T22:10:22.375] [DEBUG] debug - URL : /batterBox?boxId=1-1
+[2022-07-10T22:10:22.376] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399998,
+    "expires": "2022-07-11T13:10:16.879Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T22:10:22.376] [DEBUG] debug - Req Body : {
+  "orderNum": "1",
+  "playerName": "末廣風真"
+}
+[2022-07-10T22:10:22.376] [DEBUG] debug - =============================
+[2022-07-10T22:10:53.930] [DEBUG] debug - =============================
+[2022-07-10T22:10:53.930] [DEBUG] debug - Method : GET
+[2022-07-10T22:10:53.930] [DEBUG] debug - URL : /back
+[2022-07-10T22:10:53.930] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399998,
+    "expires": "2022-07-11T13:10:22.448Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T22:10:53.930] [DEBUG] debug - =============================
+[2022-07-10T22:10:53.937] [DEBUG] debug - =============================
+[2022-07-10T22:10:53.937] [DEBUG] debug - Method : GET
+[2022-07-10T22:10:53.937] [DEBUG] debug - URL : /scorebook/1
+[2022-07-10T22:10:53.937] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399998,
+    "expires": "2022-07-11T13:10:53.929Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T22:10:53.937] [DEBUG] debug - =============================
+[2022-07-10T22:10:59.871] [DEBUG] debug - =============================
+[2022-07-10T22:10:59.871] [DEBUG] debug - Method : GET
+[2022-07-10T22:10:59.871] [DEBUG] debug - URL : /player&order=1&name=末廣風真
+[2022-07-10T22:10:59.871] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399998,
+    "expires": "2022-07-11T13:10:54.044Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T22:10:59.871] [DEBUG] debug - =============================
+[2022-07-10T22:14:30.763] [DEBUG] debug - =============================
+[2022-07-10T22:14:30.763] [DEBUG] debug - Method : GET
+[2022-07-10T22:14:30.763] [DEBUG] debug - URL : /back
+[2022-07-10T22:14:30.763] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399998,
+    "expires": "2022-07-11T13:10:59.954Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T22:14:30.763] [DEBUG] debug - =============================
+[2022-07-10T22:14:30.770] [DEBUG] debug - =============================
+[2022-07-10T22:14:30.770] [DEBUG] debug - Method : GET
+[2022-07-10T22:14:30.770] [DEBUG] debug - URL : /scorebook/1
+[2022-07-10T22:14:30.770] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399998,
+    "expires": "2022-07-11T13:14:30.762Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T22:14:30.770] [DEBUG] debug - =============================
+[2022-07-10T22:14:38.925] [DEBUG] debug - =============================
+[2022-07-10T22:14:38.926] [DEBUG] debug - Method : GET
+[2022-07-10T22:14:38.926] [DEBUG] debug - URL : /back
+[2022-07-10T22:14:38.926] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T13:09:09.066Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T22:14:38.926] [DEBUG] debug - =============================
+[2022-07-10T22:14:38.950] [DEBUG] debug - =============================
+[2022-07-10T22:14:38.951] [DEBUG] debug - Method : GET
+[2022-07-10T22:14:38.951] [DEBUG] debug - URL : /scorebook/1
+[2022-07-10T22:14:38.951] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T13:14:38.926Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T22:14:38.951] [DEBUG] debug - =============================
+[2022-07-10T22:14:50.626] [DEBUG] debug - =============================
+[2022-07-10T22:14:50.626] [DEBUG] debug - Method : GET
+[2022-07-10T22:14:50.627] [DEBUG] debug - URL : /games_history
+[2022-07-10T22:14:50.628] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T13:14:39.023Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T22:14:50.628] [DEBUG] debug - =============================
+[2022-07-10T22:14:52.175] [DEBUG] debug - =============================
+[2022-07-10T22:14:52.175] [DEBUG] debug - Method : GET
+[2022-07-10T22:14:52.175] [DEBUG] debug - URL : /
+[2022-07-10T22:14:52.175] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T13:14:50.670Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "gameId": "1"
+  }
+}
+[2022-07-10T22:14:52.175] [DEBUG] debug - =============================
+[2022-07-10T22:18:14.752] [DEBUG] debug - =============================
+[2022-07-10T22:18:14.752] [DEBUG] debug - Method : GET
+[2022-07-10T22:18:14.752] [DEBUG] debug - URL : /login
+[2022-07-10T22:18:14.752] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T13:18:14.751Z",
+    "httpOnly": true,
+    "path": "/"
+  }
+}
+[2022-07-10T22:18:14.752] [DEBUG] debug - cookie : {
+  "connect.sid": "s:TyjYHMs8jNMrg_kRFPAlp-QDx5gIng9M.DSG8wn54TbzRK9z3MNvOm1e4ekOxU/3Js+WrpnNvZZA"
+}
+[2022-07-10T22:18:14.752] [DEBUG] debug - =============================
+[2022-07-10T22:18:22.139] [DEBUG] debug - =============================
+[2022-07-10T22:18:22.140] [DEBUG] debug - Method : GET
+[2022-07-10T22:18:22.140] [DEBUG] debug - URL : /
+[2022-07-10T22:18:22.140] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T13:18:22.128Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T22:18:22.141] [DEBUG] debug - =============================
+[2022-07-10T22:18:27.664] [DEBUG] debug - =============================
+[2022-07-10T22:18:27.664] [DEBUG] debug - Method : POST
+[2022-07-10T22:18:27.664] [DEBUG] debug - URL : /members
+[2022-07-10T22:18:27.664] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T13:18:22.245Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T22:18:27.664] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "aaaaa"
+}
+[2022-07-10T22:18:27.664] [DEBUG] debug - =============================
+[2022-07-10T22:18:32.367] [DEBUG] debug - =============================
+[2022-07-10T22:18:32.368] [DEBUG] debug - Method : GET
+[2022-07-10T22:18:32.368] [DEBUG] debug - URL : /login
+[2022-07-10T22:18:32.368] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T13:18:32.367Z",
+    "httpOnly": true,
+    "path": "/"
+  }
+}
+[2022-07-10T22:18:32.368] [DEBUG] debug - cookie : {
+  "connect.sid": "s:zGfOOETaZLjFlXfuh4up7yXlWRjShpLB.73iQDlQCLt8pm0fW1J3UN9mF3naaqv1Fjy58pjT3k6U"
+}
+[2022-07-10T22:18:32.368] [DEBUG] debug - =============================
+[2022-07-10T22:18:53.033] [DEBUG] debug - =============================
+[2022-07-10T22:18:53.033] [DEBUG] debug - Method : GET
+[2022-07-10T22:18:53.033] [DEBUG] debug - URL : /
+[2022-07-10T22:18:53.034] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T13:18:52.987Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T22:18:53.034] [DEBUG] debug - =============================
+[2022-07-10T22:19:03.024] [DEBUG] debug - =============================
+[2022-07-10T22:19:03.024] [DEBUG] debug - Method : POST
+[2022-07-10T22:19:03.024] [DEBUG] debug - URL : /members
+[2022-07-10T22:19:03.024] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T13:18:53.072Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  }
+}
+[2022-07-10T22:19:03.025] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "AAAA"
+}
+[2022-07-10T22:19:03.025] [DEBUG] debug - =============================
+[2022-07-10T22:24:56.462] [DEBUG] debug - =============================
+[2022-07-10T22:24:56.462] [DEBUG] debug - Method : POST
+[2022-07-10T22:24:56.462] [DEBUG] debug - URL : /members
+[2022-07-10T22:24:56.463] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T13:18:27.782Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "aaaaa",
+    "gameId": 2
+  }
+}
+[2022-07-10T22:24:56.463] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "aaaaa"
+}
+[2022-07-10T22:24:56.463] [DEBUG] debug - =============================
+[2022-07-10T22:25:00.013] [DEBUG] debug - =============================
+[2022-07-10T22:25:00.013] [DEBUG] debug - Method : POST
+[2022-07-10T22:25:00.013] [DEBUG] debug - URL : /members
+[2022-07-10T22:25:00.013] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T13:19:03.457Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "AAAA",
+    "gameId": 3
+  }
+}
+[2022-07-10T22:25:00.013] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "AAAA"
+}
+[2022-07-10T22:25:00.013] [DEBUG] debug - =============================
+[2022-07-10T22:26:20.116] [DEBUG] debug - =============================
+[2022-07-10T22:26:20.116] [DEBUG] debug - Method : GET
+[2022-07-10T22:26:20.116] [DEBUG] debug - URL : /login
+[2022-07-10T22:26:20.116] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T13:24:56.558Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "aaaaa",
+    "gameId": 4
+  }
+}
+[2022-07-10T22:26:20.116] [DEBUG] debug - cookie : {
+  "connect.sid": "s:Rt5i_4DVUqPhEHbxJNZN5KDTCG8IEPH1.kY/gUJUKXmmfBmJsRyycWZBwdGGXuCN8bcPd7X7Dwwg"
+}
+[2022-07-10T22:26:20.116] [DEBUG] debug - =============================
+[2022-07-10T22:26:25.780] [DEBUG] debug - =============================
+[2022-07-10T22:26:25.781] [DEBUG] debug - Method : GET
+[2022-07-10T22:26:25.781] [DEBUG] debug - URL : /
+[2022-07-10T22:26:25.781] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T13:26:25.775Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "aaaaa",
+    "gameId": 4
+  }
+}
+[2022-07-10T22:26:25.781] [DEBUG] debug - =============================
+[2022-07-10T22:26:35.668] [DEBUG] debug - =============================
+[2022-07-10T22:26:35.668] [DEBUG] debug - Method : POST
+[2022-07-10T22:26:35.668] [DEBUG] debug - URL : /members
+[2022-07-10T22:26:35.668] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T13:26:25.855Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "aaaaa",
+    "gameId": 4
+  }
+}
+[2022-07-10T22:26:35.668] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "xxxx"
+}
+[2022-07-10T22:26:35.668] [DEBUG] debug - =============================
+[2022-07-10T22:31:18.021] [DEBUG] debug - =============================
+[2022-07-10T22:31:18.021] [DEBUG] debug - Method : POST
+[2022-07-10T22:31:18.021] [DEBUG] debug - URL : /members
+[2022-07-10T22:31:18.021] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T13:26:35.737Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 6
+  }
+}
+[2022-07-10T22:31:18.021] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "aaaaa"
+}
+[2022-07-10T22:31:18.021] [DEBUG] debug - =============================
+[2022-07-10T22:31:42.727] [DEBUG] debug - =============================
+[2022-07-10T22:31:42.727] [DEBUG] debug - Method : POST
+[2022-07-10T22:31:42.727] [DEBUG] debug - URL : /members
+[2022-07-10T22:31:42.727] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T13:31:18.140Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "aaaaa",
+    "gameId": 7
+  }
+}
+[2022-07-10T22:31:42.727] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "aaaaa"
+}
+[2022-07-10T22:31:42.727] [DEBUG] debug - =============================
+[2022-07-10T22:31:44.342] [DEBUG] debug - =============================
+[2022-07-10T22:31:44.342] [DEBUG] debug - Method : POST
+[2022-07-10T22:31:44.342] [DEBUG] debug - URL : /members
+[2022-07-10T22:31:44.342] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T13:31:42.821Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "aaaaa",
+    "gameId": 8
+  }
+}
+[2022-07-10T22:31:44.342] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "aaaaa"
+}
+[2022-07-10T22:31:44.342] [DEBUG] debug - =============================
+[2022-07-10T22:31:58.922] [DEBUG] debug - =============================
+[2022-07-10T22:31:58.922] [DEBUG] debug - Method : POST
+[2022-07-10T22:31:58.922] [DEBUG] debug - URL : /members
+[2022-07-10T22:31:58.923] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T13:31:44.456Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "aaaaa",
+    "gameId": 9
+  }
+}
+[2022-07-10T22:31:58.923] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "xxxx"
+}
+[2022-07-10T22:31:58.923] [DEBUG] debug - =============================
+[2022-07-10T22:32:40.697] [DEBUG] debug - =============================
+[2022-07-10T22:32:40.697] [DEBUG] debug - Method : POST
+[2022-07-10T22:32:40.698] [DEBUG] debug - URL : /members
+[2022-07-10T22:32:40.698] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T13:31:59.026Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 10
+  }
+}
+[2022-07-10T22:32:40.698] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "xxxx"
+}
+[2022-07-10T22:32:40.698] [DEBUG] debug - =============================
+[2022-07-10T22:33:12.766] [DEBUG] debug - =============================
+[2022-07-10T22:33:12.767] [DEBUG] debug - Method : POST
+[2022-07-10T22:33:12.767] [DEBUG] debug - URL : /members
+[2022-07-10T22:33:12.767] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T13:25:00.086Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "AAAA",
+    "gameId": 5
+  }
+}
+[2022-07-10T22:33:12.767] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "AAAA"
+}
+[2022-07-10T22:33:12.767] [DEBUG] debug - =============================
+[2022-07-10T22:35:14.401] [DEBUG] debug - =============================
+[2022-07-10T22:35:14.402] [DEBUG] debug - Method : POST
+[2022-07-10T22:35:14.402] [DEBUG] debug - URL : /members
+[2022-07-10T22:35:14.402] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T13:33:12.832Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "AAAA",
+    "gameId": 12
+  }
+}
+[2022-07-10T22:35:14.402] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "AAAA"
+}
+[2022-07-10T22:35:14.402] [DEBUG] debug - =============================
+[2022-07-10T22:35:42.903] [DEBUG] debug - =============================
+[2022-07-10T22:35:42.903] [DEBUG] debug - Method : POST
+[2022-07-10T22:35:42.903] [DEBUG] debug - URL : /members
+[2022-07-10T22:35:42.903] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T13:32:40.812Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 11
+  }
+}
+[2022-07-10T22:35:42.903] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "aaaaa"
+}
+[2022-07-10T22:35:42.903] [DEBUG] debug - =============================
+[2022-07-10T22:56:01.640] [DEBUG] debug - =============================
+[2022-07-10T22:56:01.641] [DEBUG] debug - Method : POST
+[2022-07-10T22:56:01.641] [DEBUG] debug - URL : /members
+[2022-07-10T22:56:01.641] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T13:35:14.505Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "AAAA",
+    "gameId": 13
+  }
+}
+[2022-07-10T22:56:01.641] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "AAAA"
+}
+[2022-07-10T22:56:01.641] [DEBUG] debug - =============================
+[2022-07-10T22:59:05.613] [DEBUG] debug - =============================
+[2022-07-10T22:59:05.613] [DEBUG] debug - Method : POST
+[2022-07-10T22:59:05.613] [DEBUG] debug - URL : /members
+[2022-07-10T22:59:05.614] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T13:35:42.986Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "aaaaa",
+    "gameId": 14
+  }
+}
+[2022-07-10T22:59:05.614] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "aaaaa"
+}
+[2022-07-10T22:59:05.614] [DEBUG] debug - =============================
+[2022-07-10T23:03:25.444] [DEBUG] debug - =============================
+[2022-07-10T23:03:25.444] [DEBUG] debug - Method : POST
+[2022-07-10T23:03:25.444] [DEBUG] debug - URL : /members
+[2022-07-10T23:03:25.444] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T13:59:05.779Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "aaaaa",
+    "gameId": 16
+  }
+}
+[2022-07-10T23:03:25.445] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "xxxx"
+}
+[2022-07-10T23:03:25.445] [DEBUG] debug - =============================
+[2022-07-10T23:03:40.405] [DEBUG] debug - =============================
+[2022-07-10T23:03:40.405] [DEBUG] debug - Method : POST
+[2022-07-10T23:03:40.405] [DEBUG] debug - URL : /members
+[2022-07-10T23:03:40.405] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:03:25.566Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 17
+  }
+}
+[2022-07-10T23:03:40.405] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "xxxx"
+}
+[2022-07-10T23:03:40.405] [DEBUG] debug - =============================
+[2022-07-10T23:03:41.405] [DEBUG] debug - =============================
+[2022-07-10T23:03:41.405] [DEBUG] debug - Method : POST
+[2022-07-10T23:03:41.405] [DEBUG] debug - URL : /members
+[2022-07-10T23:03:41.405] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:03:40.489Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 18
+  }
+}
+[2022-07-10T23:03:41.405] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "aaaaa"
+}
+[2022-07-10T23:03:41.405] [DEBUG] debug - =============================
+[2022-07-10T23:04:08.158] [DEBUG] debug - =============================
+[2022-07-10T23:04:08.158] [DEBUG] debug - Method : POST
+[2022-07-10T23:04:08.158] [DEBUG] debug - URL : /members
+[2022-07-10T23:04:08.158] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:03:41.510Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "aaaaa",
+    "gameId": 19
+  }
+}
+[2022-07-10T23:04:08.158] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "aaaaa"
+}
+[2022-07-10T23:04:08.158] [DEBUG] debug - =============================
+[2022-07-10T23:04:09.763] [DEBUG] debug - =============================
+[2022-07-10T23:04:09.763] [DEBUG] debug - Method : POST
+[2022-07-10T23:04:09.763] [DEBUG] debug - URL : /members
+[2022-07-10T23:04:09.763] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:04:08.244Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "aaaaa",
+    "gameId": 20
+  }
+}
+[2022-07-10T23:04:09.763] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "xxxx"
+}
+[2022-07-10T23:04:09.763] [DEBUG] debug - =============================
+[2022-07-10T23:04:22.490] [DEBUG] debug - =============================
+[2022-07-10T23:04:22.490] [DEBUG] debug - Method : POST
+[2022-07-10T23:04:22.490] [DEBUG] debug - URL : /members
+[2022-07-10T23:04:22.490] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T13:56:01.651Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "AAAA",
+    "gameId": 15
+  }
+}
+[2022-07-10T23:04:22.490] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "AAAA"
+}
+[2022-07-10T23:04:22.490] [DEBUG] debug - =============================
+[2022-07-10T23:07:28.075] [DEBUG] debug - =============================
+[2022-07-10T23:07:28.075] [DEBUG] debug - Method : POST
+[2022-07-10T23:07:28.075] [DEBUG] debug - URL : /members
+[2022-07-10T23:07:28.075] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:04:09.873Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 21
+  }
+}
+[2022-07-10T23:07:28.075] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "xxxx"
+}
+[2022-07-10T23:07:28.075] [DEBUG] debug - =============================
+[2022-07-10T23:07:35.499] [DEBUG] debug - =============================
+[2022-07-10T23:07:35.499] [DEBUG] debug - Method : POST
+[2022-07-10T23:07:35.499] [DEBUG] debug - URL : /members
+[2022-07-10T23:07:35.499] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:07:28.189Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 23
+  }
+}
+[2022-07-10T23:07:35.499] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "xxxx"
+}
+[2022-07-10T23:07:35.499] [DEBUG] debug - =============================
+[2022-07-10T23:07:42.724] [DEBUG] debug - =============================
+[2022-07-10T23:07:42.725] [DEBUG] debug - Method : POST
+[2022-07-10T23:07:42.725] [DEBUG] debug - URL : /members
+[2022-07-10T23:07:42.725] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:07:35.593Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 24
+  }
+}
+[2022-07-10T23:07:42.725] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "xxxx"
+}
+[2022-07-10T23:07:42.725] [DEBUG] debug - =============================
+[2022-07-10T23:07:51.794] [DEBUG] debug - =============================
+[2022-07-10T23:07:51.794] [DEBUG] debug - Method : POST
+[2022-07-10T23:07:51.794] [DEBUG] debug - URL : /members
+[2022-07-10T23:07:51.794] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:07:42.800Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 25
+  }
+}
+[2022-07-10T23:07:51.794] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "xxxx"
+}
+[2022-07-10T23:07:51.794] [DEBUG] debug - =============================
+[2022-07-10T23:07:58.885] [DEBUG] debug - =============================
+[2022-07-10T23:07:58.885] [DEBUG] debug - Method : POST
+[2022-07-10T23:07:58.885] [DEBUG] debug - URL : /members
+[2022-07-10T23:07:58.885] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:04:22.659Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "AAAA",
+    "gameId": 22
+  }
+}
+[2022-07-10T23:07:58.885] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "AAAA"
+}
+[2022-07-10T23:07:58.885] [DEBUG] debug - =============================
+[2022-07-10T23:08:09.688] [DEBUG] debug - =============================
+[2022-07-10T23:08:09.688] [DEBUG] debug - Method : POST
+[2022-07-10T23:08:09.688] [DEBUG] debug - URL : /members
+[2022-07-10T23:08:09.688] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:07:51.878Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 26
+  }
+}
+[2022-07-10T23:08:09.688] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "xxxx"
+}
+[2022-07-10T23:08:09.689] [DEBUG] debug - =============================
+[2022-07-10T23:09:28.383] [DEBUG] debug - =============================
+[2022-07-10T23:09:28.383] [DEBUG] debug - Method : POST
+[2022-07-10T23:09:28.383] [DEBUG] debug - URL : /members
+[2022-07-10T23:09:28.383] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:08:09.755Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 28
+  }
+}
+[2022-07-10T23:09:28.383] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "xxxx"
+}
+[2022-07-10T23:09:28.383] [DEBUG] debug - =============================
+[2022-07-10T23:10:12.949] [DEBUG] debug - =============================
+[2022-07-10T23:10:12.949] [DEBUG] debug - Method : POST
+[2022-07-10T23:10:12.949] [DEBUG] debug - URL : /members
+[2022-07-10T23:10:12.949] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:09:28.467Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 29
+  }
+}
+[2022-07-10T23:10:12.949] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "xxxx"
+}
+[2022-07-10T23:10:12.949] [DEBUG] debug - =============================
+[2022-07-10T23:10:23.200] [DEBUG] debug - =============================
+[2022-07-10T23:10:23.200] [DEBUG] debug - Method : POST
+[2022-07-10T23:10:23.200] [DEBUG] debug - URL : /members
+[2022-07-10T23:10:23.200] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:10:13.058Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 30
+  }
+}
+[2022-07-10T23:10:23.200] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "xxxx"
+}
+[2022-07-10T23:10:23.201] [DEBUG] debug - =============================
+[2022-07-10T23:15:27.916] [DEBUG] debug - =============================
+[2022-07-10T23:15:27.916] [DEBUG] debug - Method : POST
+[2022-07-10T23:15:27.916] [DEBUG] debug - URL : /members
+[2022-07-10T23:15:27.916] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:10:23.300Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 31
+  }
+}
+[2022-07-10T23:15:27.916] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "xxxx"
+}
+[2022-07-10T23:15:27.916] [DEBUG] debug - =============================
+[2022-07-10T23:15:35.327] [DEBUG] debug - =============================
+[2022-07-10T23:15:35.327] [DEBUG] debug - Method : POST
+[2022-07-10T23:15:35.327] [DEBUG] debug - URL : /members
+[2022-07-10T23:15:35.327] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:15:28.004Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 32
+  }
+}
+[2022-07-10T23:15:35.327] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "xxxx"
+}
+[2022-07-10T23:15:35.327] [DEBUG] debug - =============================
+[2022-07-10T23:15:42.864] [DEBUG] debug - =============================
+[2022-07-10T23:15:42.864] [DEBUG] debug - Method : POST
+[2022-07-10T23:15:42.864] [DEBUG] debug - URL : /members
+[2022-07-10T23:15:42.864] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:15:35.450Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 33
+  }
+}
+[2022-07-10T23:15:42.864] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "xxxx"
+}
+[2022-07-10T23:15:42.864] [DEBUG] debug - =============================
+[2022-07-10T23:15:49.737] [DEBUG] debug - =============================
+[2022-07-10T23:15:49.737] [DEBUG] debug - Method : POST
+[2022-07-10T23:15:49.737] [DEBUG] debug - URL : /members
+[2022-07-10T23:15:49.737] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:15:42.932Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 34
+  }
+}
+[2022-07-10T23:15:49.737] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "xxxx"
+}
+[2022-07-10T23:15:49.737] [DEBUG] debug - =============================
+[2022-07-10T23:18:50.618] [DEBUG] debug - =============================
+[2022-07-10T23:18:50.619] [DEBUG] debug - Method : POST
+[2022-07-10T23:18:50.619] [DEBUG] debug - URL : /members
+[2022-07-10T23:18:50.619] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:15:49.802Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 35
+  }
+}
+[2022-07-10T23:18:50.619] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "xxxx"
+}
+[2022-07-10T23:18:50.619] [DEBUG] debug - =============================
+[2022-07-10T23:18:57.749] [DEBUG] debug - =============================
+[2022-07-10T23:18:57.749] [DEBUG] debug - Method : POST
+[2022-07-10T23:18:57.749] [DEBUG] debug - URL : /members
+[2022-07-10T23:18:57.749] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:18:50.713Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 36
+  }
+}
+[2022-07-10T23:18:57.749] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "xxxx"
+}
+[2022-07-10T23:18:57.749] [DEBUG] debug - =============================
+[2022-07-10T23:19:21.258] [DEBUG] debug - =============================
+[2022-07-10T23:19:21.258] [DEBUG] debug - Method : POST
+[2022-07-10T23:19:21.258] [DEBUG] debug - URL : /members
+[2022-07-10T23:19:21.258] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:07:58.929Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "AAAA",
+    "gameId": 27
+  }
+}
+[2022-07-10T23:19:21.258] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "AAAA"
+}
+[2022-07-10T23:19:21.259] [DEBUG] debug - =============================
+[2022-07-10T23:20:23.013] [DEBUG] debug - =============================
+[2022-07-10T23:20:23.013] [DEBUG] debug - Method : POST
+[2022-07-10T23:20:23.013] [DEBUG] debug - URL : /members
+[2022-07-10T23:20:23.014] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:18:57.864Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 37
+  }
+}
+[2022-07-10T23:20:23.014] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "xxxx"
+}
+[2022-07-10T23:20:23.014] [DEBUG] debug - =============================
+[2022-07-10T23:20:36.325] [DEBUG] debug - =============================
+[2022-07-10T23:20:36.326] [DEBUG] debug - Method : POST
+[2022-07-10T23:20:36.326] [DEBUG] debug - URL : /members
+[2022-07-10T23:20:36.326] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:20:23.143Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 39
+  }
+}
+[2022-07-10T23:20:36.326] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "xxxx"
+}
+[2022-07-10T23:20:36.326] [DEBUG] debug - =============================
+[2022-07-10T23:20:52.067] [DEBUG] debug - =============================
+[2022-07-10T23:20:52.067] [DEBUG] debug - Method : POST
+[2022-07-10T23:20:52.067] [DEBUG] debug - URL : /members
+[2022-07-10T23:20:52.067] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:20:36.385Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 40
+  }
+}
+[2022-07-10T23:20:52.067] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "xxxx"
+}
+[2022-07-10T23:20:52.067] [DEBUG] debug - =============================
+[2022-07-10T23:20:53.013] [DEBUG] debug - =============================
+[2022-07-10T23:20:53.013] [DEBUG] debug - Method : POST
+[2022-07-10T23:20:53.013] [DEBUG] debug - URL : /members
+[2022-07-10T23:20:53.013] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:20:52.263Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 41
+  }
+}
+[2022-07-10T23:20:53.014] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "xxxx"
+}
+[2022-07-10T23:20:53.014] [DEBUG] debug - =============================
+[2022-07-10T23:20:53.882] [DEBUG] debug - =============================
+[2022-07-10T23:20:53.882] [DEBUG] debug - Method : POST
+[2022-07-10T23:20:53.882] [DEBUG] debug - URL : /members
+[2022-07-10T23:20:53.882] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:20:53.103Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 42
+  }
+}
+[2022-07-10T23:20:53.882] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "xxxx"
+}
+[2022-07-10T23:20:53.882] [DEBUG] debug - =============================
+[2022-07-10T23:22:15.778] [DEBUG] debug - =============================
+[2022-07-10T23:22:15.778] [DEBUG] debug - Method : POST
+[2022-07-10T23:22:15.778] [DEBUG] debug - URL : /members
+[2022-07-10T23:22:15.778] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:20:53.967Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 43
+  }
+}
+[2022-07-10T23:22:15.778] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "xxxx"
+}
+[2022-07-10T23:22:15.778] [DEBUG] debug - =============================
+[2022-07-10T23:22:21.876] [DEBUG] debug - =============================
+[2022-07-10T23:22:21.876] [DEBUG] debug - Method : POST
+[2022-07-10T23:22:21.876] [DEBUG] debug - URL : /members
+[2022-07-10T23:22:21.876] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:19:21.447Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "AAAA",
+    "gameId": 38
+  }
+}
+[2022-07-10T23:22:21.876] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "AAAA"
+}
+[2022-07-10T23:22:21.876] [DEBUG] debug - =============================
+[2022-07-10T23:23:04.113] [DEBUG] debug - =============================
+[2022-07-10T23:23:04.113] [DEBUG] debug - Method : POST
+[2022-07-10T23:23:04.113] [DEBUG] debug - URL : /members
+[2022-07-10T23:23:04.113] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:22:15.884Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 44
+  }
+}
+[2022-07-10T23:23:04.113] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "aaaaa"
+}
+[2022-07-10T23:23:04.113] [DEBUG] debug - =============================
+[2022-07-10T23:23:35.388] [DEBUG] debug - =============================
+[2022-07-10T23:23:35.388] [DEBUG] debug - Method : POST
+[2022-07-10T23:23:35.388] [DEBUG] debug - URL : /members
+[2022-07-10T23:23:35.388] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:23:04.244Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "aaaaa",
+    "gameId": 46
+  }
+}
+[2022-07-10T23:23:35.388] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "aaaaa"
+}
+[2022-07-10T23:23:35.388] [DEBUG] debug - =============================
+[2022-07-10T23:23:36.967] [DEBUG] debug - =============================
+[2022-07-10T23:23:36.968] [DEBUG] debug - Method : POST
+[2022-07-10T23:23:36.968] [DEBUG] debug - URL : /members
+[2022-07-10T23:23:36.968] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:23:35.474Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "aaaaa",
+    "gameId": 47
+  }
+}
+[2022-07-10T23:23:36.968] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "xxxx"
+}
+[2022-07-10T23:23:36.968] [DEBUG] debug - =============================
+[2022-07-10T23:24:30.529] [DEBUG] debug - =============================
+[2022-07-10T23:24:30.529] [DEBUG] debug - Method : POST
+[2022-07-10T23:24:30.529] [DEBUG] debug - URL : /members
+[2022-07-10T23:24:30.529] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:23:37.074Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 48
+  }
+}
+[2022-07-10T23:24:30.529] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "xxxx"
+}
+[2022-07-10T23:24:30.529] [DEBUG] debug - =============================
+[2022-07-10T23:24:34.325] [DEBUG] debug - =============================
+[2022-07-10T23:24:34.325] [DEBUG] debug - Method : POST
+[2022-07-10T23:24:34.325] [DEBUG] debug - URL : /members
+[2022-07-10T23:24:34.325] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:22:21.929Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "AAAA",
+    "gameId": 45
+  }
+}
+[2022-07-10T23:24:34.325] [DEBUG] debug - Req Body : {
+  "date_hidden": "2022-07-10",
+  "opponent": "AAAA"
+}
+[2022-07-10T23:24:34.325] [DEBUG] debug - =============================
+[2022-07-10T23:26:21.732] [DEBUG] debug - =============================
+[2022-07-10T23:26:21.732] [DEBUG] debug - Method : POST
+[2022-07-10T23:26:21.732] [DEBUG] debug - URL : /scorebook
+[2022-07-10T23:26:21.732] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:24:34.371Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {
+    "user": "jpnengfran@outlook.jp"
+  },
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "AAAA",
+    "gameId": 50
+  }
+}
+[2022-07-10T23:26:21.732] [DEBUG] debug - Req Body : {
+  "position-1": "pitcher",
+  "name-1": "あ",
+  "position-2": "catcher",
+  "name-2": "い",
+  "position-3": "first",
+  "name-3": "う",
+  "position-4": "second",
+  "name-4": "え",
+  "position-5": "third",
+  "name-5": "お",
+  "position-6": "short",
+  "name-6": "か",
+  "position-7": "leftfield",
+  "name-7": "き",
+  "position-8": "center",
+  "name-8": "く",
+  "position-9": "rightfield",
+  "name-9": "け"
+}
+[2022-07-10T23:26:21.732] [DEBUG] debug - =============================
+[2022-07-10T23:26:27.459] [DEBUG] debug - =============================
+[2022-07-10T23:26:27.459] [DEBUG] debug - Method : GET
+[2022-07-10T23:26:27.459] [DEBUG] debug - URL : /login
+[2022-07-10T23:26:27.460] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:26:27.436Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {},
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "AAAA",
+    "gameId": 50
+  }
+}
+[2022-07-10T23:26:27.460] [DEBUG] debug - cookie : {
+  "connect.sid": "s:ojXEpSCN0DFzxyNGp4-YctzVImTzy0iW.WCYXMOTuznGYzyfVvFLdxOskIc/guEJmHF0W9gwyBCM"
+}
+[2022-07-10T23:26:27.460] [DEBUG] debug - =============================
+[2022-07-10T23:26:30.699] [DEBUG] debug - =============================
+[2022-07-10T23:26:30.699] [DEBUG] debug - Method : GET
+[2022-07-10T23:26:30.699] [DEBUG] debug - URL : /login
+[2022-07-10T23:26:30.699] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:26:30.692Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {},
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 49
+  }
+}
+[2022-07-10T23:26:30.699] [DEBUG] debug - cookie : {
+  "connect.sid": "s:Rt5i_4DVUqPhEHbxJNZN5KDTCG8IEPH1.kY/gUJUKXmmfBmJsRyycWZBwdGGXuCN8bcPd7X7Dwwg"
+}
+[2022-07-10T23:26:30.699] [DEBUG] debug - =============================
+[2022-07-10T23:26:32.275] [DEBUG] debug - =============================
+[2022-07-10T23:26:32.275] [DEBUG] debug - Method : GET
+[2022-07-10T23:26:32.275] [DEBUG] debug - URL : /login
+[2022-07-10T23:26:32.275] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:26:32.269Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {},
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 49
+  }
+}
+[2022-07-10T23:26:32.275] [DEBUG] debug - cookie : {
+  "connect.sid": "s:Rt5i_4DVUqPhEHbxJNZN5KDTCG8IEPH1.kY/gUJUKXmmfBmJsRyycWZBwdGGXuCN8bcPd7X7Dwwg"
+}
+[2022-07-10T23:26:32.275] [DEBUG] debug - =============================
+[2022-07-10T23:50:17.993] [DEBUG] debug - =============================
+[2022-07-10T23:50:17.993] [DEBUG] debug - Method : GET
+[2022-07-10T23:50:17.993] [DEBUG] debug - URL : /login
+[2022-07-10T23:50:17.993] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:50:12.659Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {},
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 49
+  }
+}
+[2022-07-10T23:50:17.993] [DEBUG] debug - cookie : {
+  "connect.sid": "s:Rt5i_4DVUqPhEHbxJNZN5KDTCG8IEPH1.kY/gUJUKXmmfBmJsRyycWZBwdGGXuCN8bcPd7X7Dwwg"
+}
+[2022-07-10T23:50:17.993] [DEBUG] debug - =============================
+[2022-07-10T23:50:22.634] [DEBUG] debug - =============================
+[2022-07-10T23:50:22.634] [DEBUG] debug - Method : GET
+[2022-07-10T23:50:22.634] [DEBUG] debug - URL : /login
+[2022-07-10T23:50:22.634] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:50:20.619Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {},
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 49
+  }
+}
+[2022-07-10T23:50:22.634] [DEBUG] debug - cookie : {
+  "connect.sid": "s:Rt5i_4DVUqPhEHbxJNZN5KDTCG8IEPH1.kY/gUJUKXmmfBmJsRyycWZBwdGGXuCN8bcPd7X7Dwwg"
+}
+[2022-07-10T23:50:22.634] [DEBUG] debug - =============================
+[2022-07-10T23:50:24.893] [DEBUG] debug - =============================
+[2022-07-10T23:50:24.893] [DEBUG] debug - Method : GET
+[2022-07-10T23:50:24.893] [DEBUG] debug - URL : /login
+[2022-07-10T23:50:24.893] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:50:24.063Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {},
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 49
+  }
+}
+[2022-07-10T23:50:24.893] [DEBUG] debug - cookie : {
+  "connect.sid": "s:Rt5i_4DVUqPhEHbxJNZN5KDTCG8IEPH1.kY/gUJUKXmmfBmJsRyycWZBwdGGXuCN8bcPd7X7Dwwg"
+}
+[2022-07-10T23:50:24.893] [DEBUG] debug - =============================
+[2022-07-10T23:51:28.027] [DEBUG] debug - =============================
+[2022-07-10T23:51:28.028] [DEBUG] debug - Method : GET
+[2022-07-10T23:51:28.028] [DEBUG] debug - URL : /login
+[2022-07-10T23:51:28.028] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:51:26.694Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {},
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 49
+  }
+}
+[2022-07-10T23:51:28.028] [DEBUG] debug - cookie : {
+  "connect.sid": "s:Rt5i_4DVUqPhEHbxJNZN5KDTCG8IEPH1.kY/gUJUKXmmfBmJsRyycWZBwdGGXuCN8bcPd7X7Dwwg"
+}
+[2022-07-10T23:51:28.028] [DEBUG] debug - =============================
+[2022-07-10T23:51:30.103] [DEBUG] debug - =============================
+[2022-07-10T23:51:30.103] [DEBUG] debug - Method : GET
+[2022-07-10T23:51:30.103] [DEBUG] debug - URL : /login
+[2022-07-10T23:51:30.103] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:51:29.201Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {},
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 49
+  }
+}
+[2022-07-10T23:51:30.103] [DEBUG] debug - cookie : {
+  "connect.sid": "s:Rt5i_4DVUqPhEHbxJNZN5KDTCG8IEPH1.kY/gUJUKXmmfBmJsRyycWZBwdGGXuCN8bcPd7X7Dwwg"
+}
+[2022-07-10T23:51:30.103] [DEBUG] debug - =============================
+[2022-07-11T00:00:48.359] [DEBUG] debug - =============================
+[2022-07-11T00:00:48.359] [DEBUG] debug - Method : GET
+[2022-07-11T00:00:48.359] [DEBUG] debug - URL : /login
+[2022-07-11T00:00:48.359] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:51:30.182Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {},
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 49
+  }
+}
+[2022-07-11T00:00:48.359] [DEBUG] debug - cookie : {
+  "connect.sid": "s:Rt5i_4DVUqPhEHbxJNZN5KDTCG8IEPH1.kY/gUJUKXmmfBmJsRyycWZBwdGGXuCN8bcPd7X7Dwwg"
+}
+[2022-07-11T00:00:48.359] [DEBUG] debug - =============================
+[2022-07-11T00:01:10.718] [DEBUG] debug - =============================
+[2022-07-11T00:01:10.718] [DEBUG] debug - Method : GET
+[2022-07-11T00:01:10.718] [DEBUG] debug - URL : /login
+[2022-07-11T00:01:10.718] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T14:49:14.531Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {},
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "AAAA",
+    "gameId": 50
+  }
+}
+[2022-07-11T00:01:10.718] [DEBUG] debug - cookie : {
+  "connect.sid": "s:ojXEpSCN0DFzxyNGp4-YctzVImTzy0iW.WCYXMOTuznGYzyfVvFLdxOskIc/guEJmHF0W9gwyBCM"
+}
+[2022-07-11T00:01:10.718] [DEBUG] debug - =============================
+[2022-07-11T00:01:13.688] [DEBUG] debug - =============================
+[2022-07-11T00:01:13.688] [DEBUG] debug - Method : GET
+[2022-07-11T00:01:13.688] [DEBUG] debug - URL : /login
+[2022-07-11T00:01:13.688] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T15:01:12.693Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {},
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "AAAA",
+    "gameId": 50
+  }
+}
+[2022-07-11T00:01:13.688] [DEBUG] debug - cookie : {
+  "connect.sid": "s:ojXEpSCN0DFzxyNGp4-YctzVImTzy0iW.WCYXMOTuznGYzyfVvFLdxOskIc/guEJmHF0W9gwyBCM"
+}
+[2022-07-11T00:01:13.688] [DEBUG] debug - =============================
+[2022-07-11T00:01:18.977] [DEBUG] debug - =============================
+[2022-07-11T00:01:18.977] [DEBUG] debug - Method : GET
+[2022-07-11T00:01:18.977] [DEBUG] debug - URL : /login
+[2022-07-11T00:01:18.977] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T15:01:17.683Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {},
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 49
+  }
+}
+[2022-07-11T00:01:18.977] [DEBUG] debug - cookie : {
+  "connect.sid": "s:Rt5i_4DVUqPhEHbxJNZN5KDTCG8IEPH1.kY/gUJUKXmmfBmJsRyycWZBwdGGXuCN8bcPd7X7Dwwg"
+}
+[2022-07-11T00:01:18.977] [DEBUG] debug - =============================
+[2022-07-11T00:01:27.501] [DEBUG] debug - =============================
+[2022-07-11T00:01:27.501] [DEBUG] debug - Method : GET
+[2022-07-11T00:01:27.501] [DEBUG] debug - URL : /login
+[2022-07-11T00:01:27.502] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T15:01:20.248Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {},
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 49
+  }
+}
+[2022-07-11T00:01:27.502] [DEBUG] debug - cookie : {
+  "connect.sid": "s:Rt5i_4DVUqPhEHbxJNZN5KDTCG8IEPH1.kY/gUJUKXmmfBmJsRyycWZBwdGGXuCN8bcPd7X7Dwwg"
+}
+[2022-07-11T00:01:27.502] [DEBUG] debug - =============================
+[2022-07-11T00:02:04.083] [DEBUG] debug - =============================
+[2022-07-11T00:02:04.083] [DEBUG] debug - Method : GET
+[2022-07-11T00:02:04.083] [DEBUG] debug - URL : /login
+[2022-07-11T00:02:04.083] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399999,
+    "expires": "2022-07-11T15:02:02.689Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {},
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 49
+  }
+}
+[2022-07-11T00:02:04.083] [DEBUG] debug - cookie : {
+  "connect.sid": "s:Rt5i_4DVUqPhEHbxJNZN5KDTCG8IEPH1.kY/gUJUKXmmfBmJsRyycWZBwdGGXuCN8bcPd7X7Dwwg"
+}
+[2022-07-11T00:02:04.083] [DEBUG] debug - =============================
+[2022-07-11T00:02:26.979] [DEBUG] debug - =============================
+[2022-07-11T00:02:26.979] [DEBUG] debug - Method : GET
+[2022-07-11T00:02:26.979] [DEBUG] debug - URL : /login
+[2022-07-11T00:02:26.979] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399999,
+    "expires": "2022-07-11T15:02:25.633Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {},
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 49
+  }
+}
+[2022-07-11T00:02:26.979] [DEBUG] debug - cookie : {
+  "connect.sid": "s:Rt5i_4DVUqPhEHbxJNZN5KDTCG8IEPH1.kY/gUJUKXmmfBmJsRyycWZBwdGGXuCN8bcPd7X7Dwwg"
+}
+[2022-07-11T00:02:26.979] [DEBUG] debug - =============================
+[2022-07-11T00:03:02.800] [DEBUG] debug - =============================
+[2022-07-11T00:03:02.800] [DEBUG] debug - Method : GET
+[2022-07-11T00:03:02.800] [DEBUG] debug - URL : /login
+[2022-07-11T00:03:02.800] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399999,
+    "expires": "2022-07-11T15:03:02.132Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {},
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 49
+  }
+}
+[2022-07-11T00:03:02.800] [DEBUG] debug - cookie : {
+  "connect.sid": "s:Rt5i_4DVUqPhEHbxJNZN5KDTCG8IEPH1.kY/gUJUKXmmfBmJsRyycWZBwdGGXuCN8bcPd7X7Dwwg"
+}
+[2022-07-11T00:03:02.800] [DEBUG] debug - =============================
+[2022-07-11T00:04:09.006] [DEBUG] debug - =============================
+[2022-07-11T00:04:09.006] [DEBUG] debug - Method : GET
+[2022-07-11T00:04:09.006] [DEBUG] debug - URL : /login
+[2022-07-11T00:04:09.007] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399999,
+    "expires": "2022-07-11T15:04:08.427Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {},
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 49
+  }
+}
+[2022-07-11T00:04:09.007] [DEBUG] debug - cookie : {
+  "connect.sid": "s:Rt5i_4DVUqPhEHbxJNZN5KDTCG8IEPH1.kY/gUJUKXmmfBmJsRyycWZBwdGGXuCN8bcPd7X7Dwwg"
+}
+[2022-07-11T00:04:09.007] [DEBUG] debug - =============================
+[2022-07-11T00:04:10.359] [DEBUG] debug - =============================
+[2022-07-11T00:04:10.359] [DEBUG] debug - Method : GET
+[2022-07-11T00:04:10.359] [DEBUG] debug - URL : /login
+[2022-07-11T00:04:10.359] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399999,
+    "expires": "2022-07-11T15:04:09.848Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {},
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 49
+  }
+}
+[2022-07-11T00:04:10.359] [DEBUG] debug - cookie : {
+  "connect.sid": "s:Rt5i_4DVUqPhEHbxJNZN5KDTCG8IEPH1.kY/gUJUKXmmfBmJsRyycWZBwdGGXuCN8bcPd7X7Dwwg"
+}
+[2022-07-11T00:04:10.359] [DEBUG] debug - =============================
+[2022-07-11T00:04:31.234] [DEBUG] debug - =============================
+[2022-07-11T00:04:31.234] [DEBUG] debug - Method : GET
+[2022-07-11T00:04:31.234] [DEBUG] debug - URL : /login
+[2022-07-11T00:04:31.234] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86400000,
+    "expires": "2022-07-11T15:01:14.426Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {},
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "AAAA",
+    "gameId": 50
+  }
+}
+[2022-07-11T00:04:31.234] [DEBUG] debug - cookie : {
+  "connect.sid": "s:ojXEpSCN0DFzxyNGp4-YctzVImTzy0iW.WCYXMOTuznGYzyfVvFLdxOskIc/guEJmHF0W9gwyBCM"
+}
+[2022-07-11T00:04:31.234] [DEBUG] debug - =============================
+[2022-07-11T00:05:30.546] [DEBUG] debug - =============================
+[2022-07-11T00:05:30.546] [DEBUG] debug - Method : GET
+[2022-07-11T00:05:30.546] [DEBUG] debug - URL : /login
+[2022-07-11T00:05:30.546] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399999,
+    "expires": "2022-07-11T15:04:32.878Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {},
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "AAAA",
+    "gameId": 50
+  }
+}
+[2022-07-11T00:05:30.546] [DEBUG] debug - cookie : {
+  "connect.sid": "s:ojXEpSCN0DFzxyNGp4-YctzVImTzy0iW.WCYXMOTuznGYzyfVvFLdxOskIc/guEJmHF0W9gwyBCM"
+}
+[2022-07-11T00:05:30.546] [DEBUG] debug - =============================
+[2022-07-11T00:09:04.614] [DEBUG] debug - =============================
+[2022-07-11T00:09:04.615] [DEBUG] debug - Method : GET
+[2022-07-11T00:09:04.615] [DEBUG] debug - URL : /login
+[2022-07-11T00:09:04.615] [DEBUG] debug - session : {
+  "cookie": {
+    "originalMaxAge": 86399999,
+    "expires": "2022-07-11T15:06:30.139Z",
+    "httpOnly": true,
+    "path": "/"
+  },
+  "flash": {},
+  "passport": {},
+  "gameInfo": {
+    "date": "2022-07-10",
+    "opponent": "xxxx",
+    "gameId": 49
+  }
+}
+[2022-07-11T00:09:04.615] [DEBUG] debug - cookie : {
+  "connect.sid": "s:Rt5i_4DVUqPhEHbxJNZN5KDTCG8IEPH1.kY/gUJUKXmmfBmJsRyycWZBwdGGXuCN8bcPd7X7Dwwg"
+}
+[2022-07-11T00:09:04.615] [DEBUG] debug - =============================
